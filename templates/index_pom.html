@@ -5,6 +5,26 @@
     // import value from flask
     const weatherData = JSON.parse("{{ weather|safe }}".replace(/'/g, '"'));
     const province = "{{ province }}";
+    function formatDateTime() {
+        const now = new Date();
+        const options = {
+            weekday: 'long',
+            day: '2-digit',
+            month: 'long',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+        };
+
+        const formatted = new Intl.DateTimeFormat('en-GB', options).format(now);
+        const cleanformatted = formatted.replace(' at', ',');
+        document.querySelector( "#currentTime").innerHTML = `${cleanformatted}`;
+    }
+        
+        document.addEventListener("DOMContentLoaded", function() {
+            formatDateTime();
+        });
 
     // once the page is loaded successfully
     document.addEventListener("DOMContentLoaded", function() {
@@ -15,6 +35,7 @@
         document.querySelector('#pressure').innerHTML = `Pressure: ${weatherData.data.current.weather.pr} hPa`;
         document.querySelector('#windSpeed').innerHTML = `Wind Speed: ${weatherData.data.current.weather.ws} m/s`;
         document.querySelector('#windDirection').innerHTML = `Wind Direction: ${weatherData.data.current.weather.wd}°`;
+        formatDateTime();
 
         // get icon value from weatherData and get icon value from ic
         // and do the if-else condition for icon selection
@@ -141,9 +162,7 @@
             </div>
             <!-- Datetime -->
             <div class="flex-col w-auto align-items-end ml-auto">
-                <div id="day" class="font-[Gabarito] font-bold text-4xl">{{ datetime.day }}</div>
-                <div id="date" class="font-[Gabarito] font-bold text-4xl">{{ datetime.date }} {{ datetime.month }} {{ datetime.year }}</div>
-                <div id="currentTime" class="font-[Gabarito] font-bold text-4xl">{{ datetime.current_time }}</div>
+                <div id="currentTime" class="font-[Gabarito] font-bold text-4xl"></div>
             </div>
         </div>
     </div>
