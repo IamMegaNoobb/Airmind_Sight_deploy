@@ -5,26 +5,6 @@
     // import value from flask
     const weatherData = JSON.parse("{{ weather|safe }}".replace(/'/g, '"'));
     const province = "{{ province }}";
-    function formatDateTime() {
-        const now = new Date();
-        const options = {
-            weekday: 'long',     // "Wednesday"
-            day: '2-digit',      // "17"
-            month: 'long',       // "July"
-            year: 'numeric',     // "2025"
-            hour: '2-digit',     // "14"
-            minute: '2-digit',   // "09"
-            hour12: false        // 24-hour format
-        };
-
-        // Format: "Wednesday, 17 July 2025 at 14:09"
-        const formatted = new Intl.DateTimeFormat('en-GB', options).format(now);
-
-        // Remove the default "at" if it exists (depends on browser locale)
-        const cleanFormatted = formatted.replace(' at', ',');
-
-        document.querySelector("#currentTime").innerHTML = cleanFormatted;
-    }
 
     // once the page is loaded successfully
     document.addEventListener("DOMContentLoaded", function() {
@@ -35,7 +15,6 @@
         document.querySelector('#pressure').innerHTML = `Pressure: ${weatherData.data.current.weather.pr} hPa`;
         document.querySelector('#windSpeed').innerHTML = `Wind Speed: ${weatherData.data.current.weather.ws} m/s`;
         document.querySelector('#windDirection').innerHTML = `Wind Direction: ${weatherData.data.current.weather.wd}°`;
-        formatDateTime();
 
         // get icon value from weatherData and get icon value from ic
         // and do the if-else condition for icon selection
@@ -120,9 +99,6 @@
             document.querySelector('#weatherHead').innerHTML = weatherData.data.current.pollution.aqius;
             document.querySelector('#unit').innerHTML = "AQI";
             defineIconAir();
-
-        // set clock updates every 1 minutes
-        setInterval(formatDateTime, 60000);
     } 
     });
 </script>
@@ -165,9 +141,9 @@
             </div>
             <!-- Datetime -->
             <div class="flex-col w-auto align-items-end ml-auto">
-                <div id="day" class="font-[Gabarito] font-bold text-4xl"></div>
-                <div id="date" class="font-[Gabarito] font-bold text-4xl"></div>
-                <div id="currentTime" class="font-[Gabarito] font-bold text-4xl"></div>
+                <div id="day" class="font-[Gabarito] font-bold text-4xl">{{ datetime.day }}</div>
+                <div id="date" class="font-[Gabarito] font-bold text-4xl">{{ datetime.date }} {{ datetime.month }} {{ datetime.year }}</div>
+                <div id="currentTime" class="font-[Gabarito] font-bold text-4xl">{{ datetime.current_time }}</div>
             </div>
         </div>
     </div>
