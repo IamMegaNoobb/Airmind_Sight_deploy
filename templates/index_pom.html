@@ -204,7 +204,7 @@
 
     // once the page is loaded successfully
     document.addEventListener("DOMContentLoaded", function() {
-        document.querySelector('#location').innerHTML = `${englishToThaiProvince[weatherData.data.city]}, Thailand`;
+        document.querySelector('#location').innerHTML = `${englishToThaiProvince[weatherData.data.city]}, ประเทศไทย`;
         document.querySelector('#weatherHead').innerHTML = weatherData.data.current.weather.tp;
         document.querySelector('#unit').innerHTML = "°C";
         document.querySelector('#humidity').innerHTML = `ความชื้น: ${weatherData.data.current.weather.hu} %`;
