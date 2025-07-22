@@ -141,14 +141,15 @@ def index(province=None):
     if not province:
         province = "Khon Kaen"
     # init
-    weather = get_weather_data(province)
+    with open("results.json", "r", encoding="utf-8") as file:
+        weather = json.load(file)
     results = {}
     datetime = get_datetime()  # Get current date and time
 
     # if province is get by URL
     # request data from API in utils.py output as dict
    
-    return render_template("index_pom.html", province=province, results=results, datetime=datetime, weather=weather)
+    return render_template("index_pom.html", province=province.replace("-", " "), results=results, datetime=datetime, weather=weather)
 
 @app.route('/map')
 def map_view():
@@ -483,6 +484,15 @@ def internal_error(error):
     """จัดการข้อผิดพลาด 500"""
     return render_template('500.html'), 500
 
+# get AQI data for every 1 hr
+def get_aqi_scheduler(key=key, provinces=provinces):
+    while True:
+        print("Data Fetching Scheduler Activated")
+        print("This application will fetch data every 1 hour")
+        fetch_all_data(key, provinces, 'w')
+        time.sleep(3600)  # หน่วงเวลา 1 ชั่วโมง (3600 วินาที)
+    
+get_aqi_scheduler(key, provinces)
 
 if __name__ == "__main__":
     app.run(debug=True)
