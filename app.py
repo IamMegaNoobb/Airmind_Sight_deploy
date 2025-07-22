@@ -484,15 +484,5 @@ def internal_error(error):
     """จัดการข้อผิดพลาด 500"""
     return render_template('500.html'), 500
 
-# get AQI data for every 1 hr
-def get_aqi_scheduler(key=key, provinces=provinces):
-    while True:
-        print("Data Fetching Scheduler Activated")
-        print("This application will fetch data every 1 hour")
-        fetch_all_data(key, provinces, 'w')
-        time.sleep(3600)  # หน่วงเวลา 1 ชั่วโมง (3600 วินาที)
-    
-get_aqi_scheduler(key, provinces)
-
 if __name__ == "__main__":
     app.run(debug=True)
