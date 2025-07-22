@@ -126,5 +126,6 @@ provinces = ['Amnat Charoen', 'Ang Thong', 'Bangkok', 'Buriram', 'Chachoengsao',
 # forecast_data = get_forecast('2eb93a22c78a1235a2f52546750a691ba41cd200', provinces, 'w')
 # print(json.dumps(forecast_data, indent=2, ensure_ascii=False))
 
-fetch_all_data('0199d98b-12a7-4ea8-8ef8-674a08a79ce7', provinces, 'w')
-get_forecast('2eb93a22c78a1235a2f52546750a691ba41cd200', provinces, 'w')
+if __name__ == "__main__":
+    fetch_all_data('0199d98b-12a7-4ea8-8ef8-674a08a79ce7', provinces, 'w')
+    get_forecast('2eb93a22c78a1235a2f52546750a691ba41cd200', provinces, 'w')
