@@ -126,6 +126,27 @@ provinces = ['Amnat Charoen', 'Ang Thong', 'Bangkok', 'Buriram', 'Chachoengsao',
 # forecast_data = get_forecast('2eb93a22c78a1235a2f52546750a691ba41cd200', provinces, 'w')
 # print(json.dumps(forecast_data, indent=2, ensure_ascii=False))
 
+def main():
+    """Main function to fetch weather and forecast data."""
+    try:
+        # API keys should ideally be in environment variables or config file
+        iqair_key = 'c276b727-085b-4e13-8a72-181ce160c0a6'
+        aqicn_key = '2eb93a22c78a1235a2f52546750a691ba41cd200'
+        
+        print("Fetching IQAir data...")
+        weather_data = fetch_all_data(iqair_key, provinces, 'w')
+        print("IQAir data fetch complete")
+        
+        print("Fetching AQICN forecast data...")
+        forecast_data = get_forecast(aqicn_key, provinces, 'w')
+        print("AQICN forecast data fetch complete")
+        
+        return weather_data, forecast_data
+        
+    except Exception as e:
+        print(f"Error in main execution: {e}")
+        return None, None
+
+
 if __name__ == "__main__":
-    fetch_all_data('c276b727-085b-4e13-8a72-181ce160c0a6', provinces, 'w')
-    get_forecast('2eb93a22c78a1235a2f52546750a691ba41cd200', provinces, 'w')
+    main()
