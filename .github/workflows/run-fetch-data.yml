@@ -33,4 +33,4 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add results.json
-          git diff --cached --quiet results.json || (git commit -m "Update results.json [auto]" && https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }})
+          git diff --cached --quiet results.json || (git commit -m "Update results.json [auto]" && git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }})
