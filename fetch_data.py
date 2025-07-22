@@ -24,12 +24,6 @@ import time
 
 # IQAIR
 
-data = {
-    "timestamp": datetime.utcnow().isoformat() + "Z",
-    "message": "Hello from GitHub Actions!"
-}
-
-
 def get_data(API_KEY, province):
     url = f'http://api.airvisual.com/v2/city?city={province}&state={province}&country=Thailand&key={API_KEY}'
     
