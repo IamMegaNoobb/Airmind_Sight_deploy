@@ -1,1473 +1,255 @@
 {
   "Amnat Charoen": {
-    "status": "success",
-    "data": {
-      "city": "Amnat Charoen",
-      "state": "Amnat Charoen",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.62883,
-          15.85851
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 54,
-          "mainus": "p2",
-          "aqicn": 21,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 68,
-          "pr": 1000,
-          "tp": 31,
-          "wd": 240,
-          "ws": 7.77
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Amnat%20Charoen&state=Amnat%20Charoen&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Ang Thong": {
-    "status": "success",
-    "data": {
-      "city": "Ang Thong",
-      "state": "Ang Thong",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.45283,
-          14.58839
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 49,
-          "mainus": "p2",
-          "aqicn": 14,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 71,
-          "pr": 1001,
-          "tp": 32,
-          "wd": 246,
-          "ws": 7.9
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Ang%20Thong&state=Ang%20Thong&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Bangkok": {
-    "status": "success",
-    "data": {
-      "city": "Bangkok",
-      "state": "Bangkok",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.4888394,
-          13.7292915
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 44,
-          "mainus": "p1",
-          "aqicn": 47,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 71,
-          "pr": 1001,
-          "tp": 31,
-          "wd": 255,
-          "ws": 6.69
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Bangkok&state=Bangkok&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Buriram": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Buriram&state=Buriram&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Buriram&state=Buriram&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chachoengsao": {
-    "status": "success",
-    "data": {
-      "city": "Chachoengsao",
-      "state": "Chachoengsao",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.3090737,
-          13.5518744
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 55,
-          "mainus": "p2",
-          "aqicn": 16,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 73,
-          "pr": 1002,
-          "tp": 30,
-          "wd": 250,
-          "ws": 7.95
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chachoengsao&state=Chachoengsao&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chai Nat": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chai%20Nat&state=Chai%20Nat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chai%20Nat&state=Chai%20Nat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chaiyaphum": {
-    "status": "success",
-    "data": {
-      "city": "Chaiyaphum",
-      "state": "Chaiyaphum",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.02881,
-          15.81047
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 38,
-          "mainus": "p2",
-          "aqicn": 21,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 72,
-          "pr": 1000,
-          "tp": 32,
-          "wd": 246,
-          "ws": 9.96
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chaiyaphum&state=Chaiyaphum&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Changwat Bueng Kan": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Changwat%20Bueng%20Kan&state=Changwat%20Bueng%20Kan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Changwat%20Bueng%20Kan&state=Changwat%20Bueng%20Kan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Changwat Ubon Ratchathani": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Changwat%20Ubon%20Ratchathani&state=Changwat%20Ubon%20Ratchathani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Changwat%20Ubon%20Ratchathani&state=Changwat%20Ubon%20Ratchathani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chanthaburi": {
-    "status": "success",
-    "data": {
-      "city": "Chanthaburi",
-      "state": "Chanthaburi",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.10447,
-          12.60961
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 50,
-          "mainus": "p2",
-          "aqicn": 41,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 79,
-          "pr": 1003,
-          "tp": 29,
-          "wd": 242,
-          "ws": 4.42
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chanthaburi&state=Chanthaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chiang Mai": {
-    "status": "success",
-    "data": {
-      "city": "Chiang Mai",
-      "state": "Chiang Mai",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          98.9640586,
-          18.816766
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 11,
-          "mainus": "p2",
-          "aqicn": 3,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "10d",
-          "hu": 82,
-          "pr": 995,
-          "tp": 28,
-          "wd": 166,
-          "ws": 1.56
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chiang%20Mai&state=Chiang%20Mai&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chiang Rai": {
-    "status": "success",
-    "data": {
-      "city": "Chiang Rai",
-      "state": "Chiang Rai",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.88519529999999,
-          20.4316335
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 0,
-          "mainus": "p2",
-          "aqicn": 0,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 96,
-          "pr": 997,
-          "tp": 24,
-          "wd": 131,
-          "ws": 1.28
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chiang%20Rai&state=Chiang%20Rai&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chon Buri": {
-    "status": "success",
-    "data": {
-      "city": "Chon Buri",
-      "state": "Chon Buri",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.9216588,
-          13.1641308
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 36,
-          "mainus": "p2",
-          "aqicn": 9,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 72,
-          "pr": 1002,
-          "tp": 30,
-          "wd": 253,
-          "ws": 8.88
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chon%20Buri&state=Chon%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chumphon": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chumphon&state=Chumphon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chumphon&state=Chumphon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kalasin": {
-    "status": "success",
-    "data": {
-      "city": "Kalasin",
-      "state": "Kalasin",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          103.50658,
-          16.43281
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 54,
-          "mainus": "p2",
-          "aqicn": 27,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 82,
-          "pr": 1000,
-          "tp": 31,
-          "wd": 246,
-          "ws": 7.63
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Kalasin&state=Kalasin&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kamphaeng Phet": {
-    "status": "success",
-    "data": {
-      "city": "Kamphaeng Phet",
-      "state": "Kamphaeng Phet",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.5420856,
-          16.4741852
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 41,
-          "mainus": "p2",
-          "aqicn": 11,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "10d",
-          "hu": 87,
-          "pr": 999,
-          "tp": 28,
-          "wd": 33,
-          "ws": 1.05
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Kamphaeng%20Phet&state=Kamphaeng%20Phet&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kanchanaburi": {
-    "status": "success",
-    "data": {
-      "city": "Kanchanaburi",
-      "state": "Kanchanaburi",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          98.6554494,
-          14.1021829
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 19,
-          "mainus": "p2",
-          "aqicn": 5,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 95,
-          "pr": 1003,
-          "tp": 23,
-          "wd": 249,
-          "ws": 4.51
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Kanchanaburi&state=Kanchanaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Khon Kaen": {
-    "status": "success",
-    "data": {
-      "city": "Khon Kaen",
-      "state": "Khon Kaen",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.835251,
-          16.445329
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 17,
-          "mainus": "p2",
-          "aqicn": 4,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 77,
-          "pr": 1001,
-          "tp": 30,
-          "wd": 224,
-          "ws": 6.37
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Khon%20Kaen&state=Khon%20Kaen&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Krabi": {
-    "status": "success",
-    "data": {
-      "city": "Krabi",
-      "state": "Krabi",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          98.91052,
-          8.07257
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 53,
-          "mainus": "p2",
-          "aqicn": 14,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 62,
-          "pr": 1005,
-          "tp": 30,
-          "wd": 243,
-          "ws": 7.66
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Krabi&state=Krabi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Lampang": {
-    "status": "success",
-    "data": {
-      "city": "Lampang",
-      "state": "Lampang",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.5313889,
-          18.7469444
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 6,
-          "mainus": "p2",
-          "aqicn": 1,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "10d",
-          "hu": 93,
-          "pr": 997,
-          "tp": 27,
-          "wd": 199,
-          "ws": 2.13
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Lampang&state=Lampang&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Lamphun": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Lamphun&state=Lamphun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Lamphun&state=Lamphun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Loei": {
-    "status": "success",
-    "data": {
-      "city": "Loei",
-      "state": "Loei",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.7301247,
-          17.4524602
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 11,
-          "mainus": "p2",
-          "aqicn": 7,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 83,
-          "pr": 1000,
-          "tp": 27,
-          "wd": 144,
-          "ws": 1.51
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Loei&state=Loei&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Lopburi": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Lopburi&state=Lopburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Lopburi&state=Lopburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Mae Hong Son": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Mae%20Hong%20Son&state=Mae%20Hong%20Son&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Mae%20Hong%20Son&state=Mae%20Hong%20Son&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Maha Sarakham": {
-    "status": "success",
-    "data": {
-      "city": "Maha Sarakham",
-      "state": "Maha Sarakham",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          103.30067,
-          16.18483
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 60,
-          "mainus": "p2",
-          "aqicn": 26,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 71,
-          "pr": 1000,
-          "tp": 31,
-          "wd": 248,
-          "ws": 9.81
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Maha%20Sarakham&state=Maha%20Sarakham&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Mukdahan": {
-    "status": "success",
-    "data": {
-      "city": "Mukdahan",
-      "state": "Mukdahan",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.72351,
-          16.54531
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 44,
-          "mainus": "p2",
-          "aqicn": 38,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 68,
-          "pr": 1001,
-          "tp": 30,
-          "wd": 235,
-          "ws": 6.07
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Mukdahan&state=Mukdahan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Nayok": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Nayok",
-      "state": "Nakhon Nayok",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.21295,
-          14.20463
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 58,
-          "mainus": "p2",
-          "aqicn": 19,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 75,
-          "pr": 1001,
-          "tp": 32,
-          "wd": 265,
-          "ws": 4.58
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nakhon%20Nayok&state=Nakhon%20Nayok&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Pathom": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Pathom",
-      "state": "Nakhon Pathom",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.32622308,
-          13.79059242
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 44,
-          "mainus": "p2",
-          "aqicn": 11,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 72,
-          "pr": 1000,
-          "tp": 32,
-          "wd": 252,
-          "ws": 7.53
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nakhon%20Pathom&state=Nakhon%20Pathom&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Phanom": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Phanom",
-      "state": "Nakhon Phanom",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.77856,
-          17.41081
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 29,
-          "mainus": "p2",
-          "aqicn": 14,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 82,
-          "pr": 1001,
-          "tp": 29,
-          "wd": 233,
-          "ws": 2.19
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nakhon%20Phanom&state=Nakhon%20Phanom&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Ratchasima": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Ratchasima",
-      "state": "Nakhon Ratchasima",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.0775411,
-          14.9723586
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 17,
-          "mainus": "p2",
-          "aqicn": 4,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 78,
-          "pr": 1001,
-          "tp": 32,
-          "wd": 245,
-          "ws": 9.4
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nakhon%20Ratchasima&state=Nakhon%20Ratchasima&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Sawan": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Sawan",
-      "state": "Nakhon Sawan",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.1367166,
-          15.6983587
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 17,
-          "mainus": "p2",
-          "aqicn": 4,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 97,
-          "pr": 998,
-          "tp": 31,
-          "wd": 201,
-          "ws": 3.5
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nakhon%20Sawan&state=Nakhon%20Sawan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Si Thammarat": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Si Thammarat",
-      "state": "Nakhon Si Thammarat",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.96667,
-          8.43333
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 33,
-          "mainus": "p2",
-          "aqicn": 9,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 49,
-          "pr": 1003,
-          "tp": 32,
-          "wd": 246,
-          "ws": 3.31
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nakhon%20Si%20Thammarat&state=Nakhon%20Si%20Thammarat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nan": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Nan&state=Nan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nan&state=Nan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Narathiwat": {
-    "status": "success",
-    "data": {
-      "city": "Narathiwat",
-      "state": "Narathiwat",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.8150573,
-          6.424468
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 56,
-          "mainus": "p2",
-          "aqicn": 17,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 65,
-          "pr": 1004,
-          "tp": 32,
-          "wd": 47,
-          "ws": 6.9
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Narathiwat&state=Narathiwat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nong Bua Lamphu": {
-    "status": "success",
-    "data": {
-      "city": "Nong Bua Lamphu",
-      "state": "Nong Bua Lamphu",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.44068,
-          17.20406
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 69,
-          "mainus": "p2",
-          "aqicn": 32,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 89,
-          "pr": 999,
-          "tp": 29,
-          "wd": 199,
-          "ws": 4.08
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nong%20Bua%20Lamphu&state=Nong%20Bua%20Lamphu&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nong Khai": {
-    "status": "success",
-    "data": {
-      "city": "Nong Khai",
-      "state": "Nong Khai",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.742,
-          17.87847
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "aqius": 14,
-          "mainus": "p2",
-          "aqicn": 6,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 80,
-          "pr": 999,
-          "tp": 29,
-          "wd": 231,
-          "ws": 2.47
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nong%20Khai&state=Nong%20Khai&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nonthaburi": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Nonthaburi&state=Nonthaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nonthaburi&state=Nonthaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Pathum Thani": {
-    "status": "success",
-    "data": {
-      "city": "Pathum Thani",
-      "state": "Pathum Thani",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.53049,
-          14.01346
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 33,
-          "mainus": "p2",
-          "aqicn": 9,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 74,
-          "pr": 1001,
-          "tp": 32,
-          "wd": 257,
-          "ws": 6.43
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Pathum%20Thani&state=Pathum%20Thani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Pattani": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Pattani&state=Pattani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Pattani&state=Pattani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phangnga": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phangnga&state=Phangnga&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phangnga&state=Phangnga&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phatthalung": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phatthalung&state=Phatthalung&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phatthalung&state=Phatthalung&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phayao": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phayao&state=Phayao&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phayao&state=Phayao&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phetchabun": {
-    "status": "success",
-    "data": {
-      "city": "Phetchabun",
-      "state": "Phetchabun",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.16056,
-          16.41904
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 25,
-          "mainus": "p2",
-          "aqicn": 11,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 92,
-          "pr": 1000,
-          "tp": 29,
-          "wd": 202,
-          "ws": 3.51
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phetchabun&state=Phetchabun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phetchaburi": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phetchaburi&state=Phetchaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phetchaburi&state=Phetchaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phichit": {
-    "status": "success",
-    "data": {
-      "city": "Phichit",
-      "state": "Phichit",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.34879,
-          16.44184
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 22,
-          "mainus": "p2",
-          "aqicn": 12,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 91,
-          "pr": 999,
-          "tp": 30,
-          "wd": 150,
-          "ws": 3.03
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phichit&state=Phichit&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phitsanulok": {
-    "status": "success",
-    "data": {
-      "city": "Phitsanulok",
-      "state": "Phitsanulok",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.25858,
-          16.82481
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 28,
-          "mainus": "p2",
-          "aqicn": 12,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 88,
-          "pr": 998,
-          "tp": 29,
-          "wd": 154,
-          "ws": 3.47
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phitsanulok&state=Phitsanulok&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phra Nakhon Si Ayutthaya": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phra%20Nakhon%20Si%20Ayutthaya&state=Phra%20Nakhon%20Si%20Ayutthaya&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phra%20Nakhon%20Si%20Ayutthaya&state=Phra%20Nakhon%20Si%20Ayutthaya&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phrae": {
-    "status": "success",
-    "data": {
-      "city": "Phrae",
-      "state": "Phrae",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.1638105,
-          18.1191877
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 11,
-          "mainus": "p2",
-          "aqicn": 3,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 98,
-          "pr": 999,
-          "tp": 27,
-          "wd": 190,
-          "ws": 3.15
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phrae&state=Phrae&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phuket": {
-    "status": "success",
-    "data": {
-      "city": "Phuket",
-      "state": "Phuket",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          98.39375319999999,
-          7.8885865
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 52,
-          "mainus": "p2",
-          "aqicn": 37,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 67,
-          "pr": 1005,
-          "tp": 30,
-          "wd": 248,
-          "ws": 7.7
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phuket&state=Phuket&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Prachin Buri": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Prachin%20Buri&state=Prachin%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Prachin%20Buri&state=Prachin%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Prachuap Khiri Khan": {
-    "status": "success",
-    "data": {
-      "city": "Prachuap Khiri Khan",
-      "state": "Prachuap Khiri Khan",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.7841,
-          11.82098
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 39,
-          "mainus": "p2",
-          "aqicn": 10,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 66,
-          "pr": 1003,
-          "tp": 30,
-          "wd": 251,
-          "ws": 8.16
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Prachuap%20Khiri%20Khan&state=Prachuap%20Khiri%20Khan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Ranong": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Ranong&state=Ranong&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Ranong&state=Ranong&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Ratchaburi": {
-    "status": "success",
-    "data": {
-      "city": "Ratchaburi",
-      "state": "Ratchaburi",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.81355839999999,
-          13.5282953
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 6,
-          "mainus": "p2",
-          "aqicn": 1,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 76,
-          "pr": 1000,
-          "tp": 31,
-          "wd": 258,
-          "ws": 8.81
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Ratchaburi&state=Ratchaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Rayong": {
-    "status": "success",
-    "data": {
-      "city": "Rayong",
-      "state": "Rayong",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.2778877,
-          12.6763503
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 41,
-          "mainus": "p2",
-          "aqicn": 26,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 76,
-          "pr": 1002,
-          "tp": 30,
-          "wd": 244,
-          "ws": 7.68
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Rayong&state=Rayong&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Roi Et": {
-    "status": "success",
-    "data": {
-      "city": "Roi Et",
-      "state": "Roi Et",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          103.65309,
-          16.0567
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 37,
-          "mainus": "p2",
-          "aqicn": 26,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 64,
-          "pr": 1000,
-          "tp": 32,
-          "wd": 252,
-          "ws": 8.92
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Roi%20Et&state=Roi%20Et&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sa Kaeo": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sa%20Kaeo&state=Sa%20Kaeo&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sa%20Kaeo&state=Sa%20Kaeo&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sakon Nakhon": {
-    "status": "success",
-    "data": {
-      "city": "Sakon Nakhon",
-      "state": "Sakon Nakhon",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.14725,
-          17.16116
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 11,
-          "mainus": "p2",
-          "aqicn": 4,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 75,
-          "pr": 1000,
-          "tp": 29,
-          "wd": 223,
-          "ws": 6.23
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sakon%20Nakhon&state=Sakon%20Nakhon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Samut Prakan": {
-    "status": "success",
-    "data": {
-      "city": "Samut Prakan",
-      "state": "Samut Prakan",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.8282161,
-          13.6132538
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 33,
-          "mainus": "p2",
-          "aqicn": 9,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 73,
-          "pr": 1001,
-          "tp": 31,
-          "wd": 255,
-          "ws": 7.31
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Samut%20Prakan&state=Samut%20Prakan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Samut Sakhon": {
-    "status": "success",
-    "data": {
-      "city": "Samut Sakhon",
-      "state": "Samut Sakhon",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.27598,
-          13.5442147
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 42,
-          "mainus": "p2",
-          "aqicn": 11,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 73,
-          "pr": 1001,
-          "tp": 31,
-          "wd": 261,
-          "ws": 7.28
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Samut%20Sakhon&state=Samut%20Sakhon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Samut Songkhram": {
-    "status": "success",
-    "data": {
-      "city": "Samut Songkhram",
-      "state": "Samut Songkhram",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.00264,
-          13.41456
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 35,
-          "mainus": "p2",
-          "aqicn": 15,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 88,
-          "pr": 999,
-          "tp": 31,
-          "wd": 258,
-          "ws": 6.93
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Samut%20Songkhram&state=Samut%20Songkhram&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sara Buri": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sara%20Buri&state=Sara%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sara%20Buri&state=Sara%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Satun": {
     "status": "error",
-    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Satun&state=Satun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Satun&state=Satun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sing Buri": {
-    "status": "success",
-    "data": {
-      "city": "Sing Buri",
-      "state": "Sing Buri",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.40464,
-          14.88786
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "aqius": 17,
-          "mainus": "p2",
-          "aqicn": 9,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-07-23T08:00:00.000Z",
-          "ic": "04d",
-          "hu": 71,
-          "pr": 1000,
-          "tp": 33,
-          "wd": 237,
-          "ws": 6.52
-        }
-      }
-    }
+    "status": "error",
+    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sing%20Buri&state=Sing%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sisaket": {
     "status": "error",
