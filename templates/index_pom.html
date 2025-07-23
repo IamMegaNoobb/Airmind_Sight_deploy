@@ -238,7 +238,7 @@
         // and do the if-else condition for icon selection
         const weatherStatuses = document.querySelectorAll('.weather-icon');
         const aqiuss = document.querySelectorAll('.aqius');
-        icon = document.querySelectorAll('.weather-icon');
+        const icons = document.querySelectorAll('.weather-icon');
         weatherStatus = weatherData[province].data.current.weather.ic;
         aqiuss.forEach(aqius => {
             aqius.innerHTML = `AQI: ${weatherData[province].data.current.pollution.aqius}`;
@@ -249,38 +249,52 @@
                 // for clear sky day
                 case "01d":
                 case "02d":
-                    icon.src = "{{url_for('static', filename='weather/01d.png')}}";
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/01d.png')}}";
+                    });
                     break;
                 // for clear sky night
                 case "01n":
                 case "02n":
-                    icon.src = "{{url_for('static', filename='weather/01n.png')}}";
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/01n.png')}}";
+                    });
                     break;
                 // for cloudy day
                 case "02d":
                 case "03d":
                 case "04d":
-                    icon.src = "{{url_for('static', filename='weather/0234d.png')}}";
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/0234d.png')}}";
+                    });
                     break;
                 // for cloudy night
                 case "02n":
                 case "03n":
                 case "04n":
-                    icon.src = "{{url_for('static', filename='weather/0234n.png')}}";
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/0234n.png')}}";
+                    });
                     break;
                 // for rainy day
                 case "09d":
                 case "10d":
-                    icon.src = "{{url_for('static', filename='weather/910d.png')}}";
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/910d.png')}}";
+                    });
                     break;
                 // for rainy night
                 case "09n":
                 case "10n":
-                    icon.src = "{{url_for('static', filename='weather/910n.png')}}";
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/910n.png')}}";
+                    });
                     break;
                     // for thunderstorm
                 case "11d":
-                    icon.src = "{{url_for('static', filename='weather/11d.png')}}"
+                    icons.forEach(icon => {
+                        icon.src = "{{url_for('static', filename='weather/11d.png')}}";
+                    });
                     break;
             }
         }
