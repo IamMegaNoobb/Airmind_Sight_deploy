@@ -24,8 +24,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run fetch_data_daily.py
-        run: python3 fetch_data_daily.py
+      - name: Run fetch_data_daliy.py
+        run: python3 fetch_data_daliy.py
 
       - name: commit and push to github repository
         run: |
