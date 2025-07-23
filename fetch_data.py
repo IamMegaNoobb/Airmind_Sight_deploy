@@ -49,7 +49,7 @@ def fetch_all_data(API_KEY, provinces, condition):
             results[province] = data
             
             # หน่วงเวลา เพื่อไม่ให้ API rate limit
-            time.sleep(13)
+            time.sleep(30)
             
         except Exception as e:
             print(f"Error processing {province}: {e}")
@@ -57,7 +57,7 @@ def fetch_all_data(API_KEY, provinces, condition):
     
     if condition == 'w':
         try:
-            with open('forecast_results.json', 'w', encoding='utf-8') as f:
+            with open('results.json', 'w', encoding='utf-8') as f:
                 json.dump(results, f, indent=2, ensure_ascii=False)
         except Exception as e:
             print(f"Error writing forecast file: {e}")
