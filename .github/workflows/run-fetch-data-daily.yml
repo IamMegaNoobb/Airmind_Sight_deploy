@@ -2,7 +2,7 @@ name: Run fetch_data_daily.py every 60 minutes
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every 60 minutes (UTC)
+    - cron: '7 * * * *'  # Every 60 minutes (UTC)
   workflow_dispatch:     # Allow manual run via GitHub UI
 
 permissions:
