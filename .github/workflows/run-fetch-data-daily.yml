@@ -5,18 +5,19 @@ on:
     - cron: '0 * * * *'  # Every 60 minutes (UTC)
   workflow_dispatch:     # Allow manual run via GitHub UI
 
+permissions:
+  contents: write  # Allow the action to push changes to the repository
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v3
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install dependencies
         run: |
