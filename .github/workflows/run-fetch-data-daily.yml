@@ -9,7 +9,7 @@ permissions:
   contents: write  # Allow the action to push changes to the repository
 
 jobs:
-  run-script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,7 +26,6 @@ jobs:
 
       - name: Run fetch_data_daily.py
         run: python3 fetch_data_daily.py
-        working-directory: ${{ github.workspace }}
 
       - name: commit and push to github repository
         run: |
