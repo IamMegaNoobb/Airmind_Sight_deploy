@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run fetch_data_daily.py
-        run: python fetch_data_daily.py
+        run: python3 fetch_data_daily.py
 
       - name: commit and push to github repository
         run: |
@@ -33,4 +33,4 @@ jobs:
           git add forecast_results.json
           git add results.json
           git commit -m "updated forecast_results.json and results.json by github actions"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/IamMegaNoobb/web-course.git HEAD:main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/IamMegaNoobb/Airmind_Sight_deploy.git HEAD:main
