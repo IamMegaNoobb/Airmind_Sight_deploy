@@ -14,20 +14,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 58,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 64,
           "mainus": "p2",
-          "aqicn": 20,
-          "maincn": "o3"
+          "aqicn": 23,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 66,
-          "pr": 1001,
-          "tp": 31,
-          "wd": 233,
-          "ws": 7.59
+          "hu": 91,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 223,
+          "ws": 3.33
         }
       }
     }
@@ -47,20 +47,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 49,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 58,
           "mainus": "p2",
-          "aqicn": 13,
-          "maincn": "p2"
+          "aqicn": 27,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 68,
-          "pr": 1002,
-          "tp": 32,
-          "wd": 241,
-          "ws": 6.54
+          "hu": 77,
+          "pr": 1005,
+          "tp": 29,
+          "wd": 198,
+          "ws": 3.23
         }
       }
     }
@@ -80,27 +80,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 40,
-          "mainus": "p1",
-          "aqicn": 43,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 62,
+          "mainus": "p2",
+          "aqicn": 51,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 72,
-          "pr": 1003,
-          "tp": 32,
-          "wd": 247,
-          "ws": 6.52
+          "hu": 73,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 210,
+          "ws": 2
         }
       }
     }
   },
   "Buriram": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Buriram&state=Buriram&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Buriram&state=Buriram&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chachoengsao": {
     "status": "success",
@@ -117,27 +117,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 55,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 64,
           "mainus": "p2",
-          "aqicn": 16,
+          "aqicn": 23,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 71,
-          "pr": 1003,
-          "tp": 31,
-          "wd": 237,
-          "ws": 8.24
+          "hu": 81,
+          "pr": 1006,
+          "tp": 30,
+          "wd": 212,
+          "ws": 2
         }
       }
     }
   },
   "Chai Nat": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chai%20Nat&state=Chai%20Nat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chai%20Nat&state=Chai%20Nat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chaiyaphum": {
     "status": "success",
@@ -154,31 +154,31 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 39,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 55,
           "mainus": "p2",
-          "aqicn": 18,
-          "maincn": "o3"
+          "aqicn": 16,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 82,
-          "pr": 1002,
-          "tp": 31,
-          "wd": 246,
-          "ws": 8.78
+          "hu": 88,
+          "pr": 1006,
+          "tp": 27,
+          "wd": 250,
+          "ws": 3.9
         }
       }
     }
   },
   "Changwat Bueng Kan": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Changwat%20Bueng%20Kan&state=Changwat%20Bueng%20Kan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Changwat%20Bueng%20Kan&state=Changwat%20Bueng%20Kan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Changwat Ubon Ratchathani": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Changwat%20Ubon%20Ratchathani&state=Changwat%20Ubon%20Ratchathani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Changwat%20Ubon%20Ratchathani&state=Changwat%20Ubon%20Ratchathani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chanthaburi": {
     "status": "success",
@@ -195,20 +195,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 50,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 55,
           "mainus": "p2",
-          "aqicn": 42,
+          "aqicn": 39,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 83,
-          "pr": 1005,
-          "tp": 29,
-          "wd": 239,
-          "ws": 4.57
+          "hu": 87,
+          "pr": 1007,
+          "tp": 28,
+          "wd": 259,
+          "ws": 2.01
         }
       }
     }
@@ -228,20 +228,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 22,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 33,
           "mainus": "p2",
-          "aqicn": 6,
+          "aqicn": 9,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "10d",
-          "hu": 92,
-          "pr": 998,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 89,
+          "pr": 1004,
           "tp": 28,
-          "wd": 178,
-          "ws": 1.58
+          "wd": 226,
+          "ws": 0.74
         }
       }
     }
@@ -261,20 +261,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 0,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 33,
           "mainus": "p2",
-          "aqicn": 0,
+          "aqicn": 9,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 97,
-          "pr": 998,
-          "tp": 25,
-          "wd": 160,
-          "ws": 0.63
+          "hu": 99,
+          "pr": 1005,
+          "tp": 23,
+          "wd": 183,
+          "ws": 0.57
         }
       }
     }
@@ -294,27 +294,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 38,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 57,
           "mainus": "p2",
-          "aqicn": 10,
+          "aqicn": 18,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 76,
-          "pr": 1004,
-          "tp": 32,
-          "wd": 233,
-          "ws": 8.5
+          "hu": 77,
+          "pr": 1006,
+          "tp": 31,
+          "wd": 238,
+          "ws": 5.23
         }
       }
     }
   },
   "Chumphon": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Chumphon&state=Chumphon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chumphon&state=Chumphon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kalasin": {
     "status": "success",
@@ -331,20 +331,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 60,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 76,
           "mainus": "p2",
-          "aqicn": 24,
+          "aqicn": 43,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 90,
-          "pr": 1001,
-          "tp": 29,
-          "wd": 218,
-          "ws": 5.83
+          "hu": 88,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 231,
+          "ws": 3.53
         }
       }
     }
@@ -364,20 +364,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 55,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 36,
           "mainus": "p2",
-          "aqicn": 16,
-          "maincn": "p2"
+          "aqicn": 13,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "10d",
-          "hu": 89,
-          "pr": 1000,
-          "tp": 28,
-          "wd": 69,
-          "ws": 1.1
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 86,
+          "pr": 1004,
+          "tp": 27,
+          "wd": 357,
+          "ws": 1.34
         }
       }
     }
@@ -397,20 +397,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 33,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 52,
           "mainus": "p2",
-          "aqicn": 9,
+          "aqicn": 14,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 96,
-          "pr": 1004,
-          "tp": 23,
-          "wd": 253,
-          "ws": 5.18
+          "hu": 95,
+          "pr": 1007,
+          "tp": 22,
+          "wd": 248,
+          "ws": 2.31
         }
       }
     }
@@ -430,20 +430,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 17,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 63,
           "mainus": "p2",
-          "aqicn": 4,
+          "aqicn": 22,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 84,
-          "pr": 1001,
-          "tp": 28,
-          "wd": 215,
-          "ws": 6.51
+          "hu": 85,
+          "pr": 1005,
+          "tp": 25,
+          "wd": 214,
+          "ws": 3.33
         }
       }
     }
@@ -463,20 +463,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 55,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 50,
           "mainus": "p2",
-          "aqicn": 16,
+          "aqicn": 13,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "04d",
-          "hu": 67,
-          "pr": 1007,
-          "tp": 30,
-          "wd": 244,
-          "ws": 7
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "03d",
+          "hu": 88,
+          "pr": 1008,
+          "tp": 26,
+          "wd": 280,
+          "ws": 3.5
         }
       }
     }
@@ -496,27 +496,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 11,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 39,
           "mainus": "p2",
-          "aqicn": 3,
+          "aqicn": 10,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 97,
-          "pr": 999,
-          "tp": 26,
-          "wd": 192,
-          "ws": 3.31
+          "hu": 94,
+          "pr": 1005,
+          "tp": 25,
+          "wd": 189,
+          "ws": 0.94
         }
       }
     }
   },
   "Lamphun": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Lamphun&state=Lamphun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Lamphun&state=Lamphun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Loei": {
     "status": "success",
@@ -533,31 +533,31 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 11,
-          "mainus": "p2",
-          "aqicn": 7,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 31,
+          "mainus": "p1",
+          "aqicn": 34,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 85,
-          "pr": 1000,
-          "tp": 27,
-          "wd": 156,
-          "ws": 1.58
+          "hu": 97,
+          "pr": 1005,
+          "tp": 25,
+          "wd": 283,
+          "ws": 0.18
         }
       }
     }
   },
   "Lopburi": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Lopburi&state=Lopburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Lopburi&state=Lopburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Mae Hong Son": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Mae%20Hong%20Son&state=Mae%20Hong%20Son&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Mae%20Hong%20Son&state=Mae%20Hong%20Son&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Maha Sarakham": {
     "status": "success",
@@ -574,20 +574,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 64,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 75,
           "mainus": "p2",
-          "aqicn": 23,
-          "maincn": "p2"
+          "aqicn": 32,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 84,
-          "pr": 1001,
-          "tp": 30,
-          "wd": 223,
-          "ws": 5.28
+          "hu": 86,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 225,
+          "ws": 4.52
         }
       }
     }
@@ -607,20 +607,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
+          "ts": "2025-07-24T23:00:00.000Z",
           "aqius": 56,
           "mainus": "p2",
-          "aqicn": 37,
+          "aqicn": 33,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 74,
-          "pr": 1002,
-          "tp": 29,
-          "wd": 233,
-          "ws": 7.54
+          "hu": 94,
+          "pr": 1005,
+          "tp": 24,
+          "wd": 240,
+          "ws": 1.44
         }
       }
     }
@@ -640,20 +640,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 71,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 59,
           "mainus": "p2",
-          "aqicn": 28,
+          "aqicn": 19,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 73,
-          "pr": 1003,
-          "tp": 32,
-          "wd": 249,
-          "ws": 5.92
+          "hu": 79,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 17,
+          "ws": 0.7
         }
       }
     }
@@ -673,20 +673,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 33,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 64,
           "mainus": "p2",
-          "aqicn": 9,
+          "aqicn": 23,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 71,
-          "pr": 1002,
-          "tp": 32,
-          "wd": 250,
-          "ws": 6.9
+          "hu": 74,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 193,
+          "ws": 2.02
         }
       }
     }
@@ -706,20 +706,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 32,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 44,
           "mainus": "p2",
-          "aqicn": 14,
-          "maincn": "o3"
+          "aqicn": 20,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "04d",
-          "hu": 86,
-          "pr": 1002,
-          "tp": 28,
-          "wd": 205,
-          "ws": 2.91
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "10d",
+          "hu": 100,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 271,
+          "ws": 1.25
         }
       }
     }
@@ -739,20 +739,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 11,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 53,
           "mainus": "p2",
-          "aqicn": 3,
+          "aqicn": 15,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 73,
-          "pr": 1002,
-          "tp": 33,
-          "wd": 245,
-          "ws": 10.62
+          "hu": 86,
+          "pr": 1005,
+          "tp": 27,
+          "wd": 237,
+          "ws": 3.56
         }
       }
     }
@@ -772,20 +772,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 38,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 33,
           "mainus": "p2",
-          "aqicn": 10,
+          "aqicn": 9,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
           "hu": 79,
-          "pr": 1001,
-          "tp": 31,
-          "wd": 202,
-          "ws": 3.78
+          "pr": 1005,
+          "tp": 28,
+          "wd": 181,
+          "ws": 1.96
         }
       }
     }
@@ -805,27 +805,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 33,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 60,
           "mainus": "p2",
-          "aqicn": 9,
+          "aqicn": 20,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 48,
-          "pr": 1005,
-          "tp": 33,
-          "wd": 257,
-          "ws": 3.93
+          "hu": 89,
+          "pr": 1007,
+          "tp": 25,
+          "wd": 247,
+          "ws": 1.82
         }
       }
     }
   },
   "Nan": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nan&state=Nan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Nan&state=Nan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Narathiwat": {
     "status": "success",
@@ -842,20 +842,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 56,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 46,
           "mainus": "p2",
-          "aqicn": 17,
+          "aqicn": 12,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 59,
-          "pr": 1005,
-          "tp": 31,
-          "wd": 39,
-          "ws": 1.01
+          "hu": 91,
+          "pr": 1008,
+          "tp": 26,
+          "wd": 196,
+          "ws": 1.96
         }
       }
     }
@@ -875,20 +875,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 66,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 44,
           "mainus": "p2",
-          "aqicn": 29,
+          "aqicn": 20,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 86,
-          "pr": 1000,
-          "tp": 29,
-          "wd": 205,
-          "ws": 4.64
+          "hu": 91,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 259,
+          "ws": 0.85
         }
       }
     }
@@ -908,27 +908,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
-          "aqius": 14,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 58,
           "mainus": "p2",
-          "aqicn": 6,
+          "aqicn": 24,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 80,
-          "pr": 1000,
-          "tp": 30,
-          "wd": 224,
-          "ws": 2.62
+          "hu": 93,
+          "pr": 1004,
+          "tp": 26,
+          "wd": 345,
+          "ws": 2.07
         }
       }
     }
   },
   "Nonthaburi": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Nonthaburi&state=Nonthaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Nonthaburi&state=Nonthaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Pathum Thani": {
     "status": "success",
@@ -945,39 +945,39 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 36,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 66,
           "mainus": "p2",
-          "aqicn": 9,
+          "aqicn": 25,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 72,
-          "pr": 1003,
-          "tp": 32,
-          "wd": 243,
-          "ws": 5.75
+          "hu": 76,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 208,
+          "ws": 2.67
         }
       }
     }
   },
   "Pattani": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Pattani&state=Pattani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Pattani&state=Pattani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phangnga": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phangnga&state=Phangnga&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phangnga&state=Phangnga&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phatthalung": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phatthalung&state=Phatthalung&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phatthalung&state=Phatthalung&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phayao": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phayao&state=Phayao&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phayao&state=Phayao&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phetchabun": {
     "status": "success",
@@ -994,27 +994,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 29,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 55,
           "mainus": "p2",
-          "aqicn": 12,
-          "maincn": "o3"
+          "aqicn": 21,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
           "hu": 94,
-          "pr": 1002,
-          "tp": 28,
-          "wd": 201,
-          "ws": 3.92
+          "pr": 1005,
+          "tp": 26,
+          "wd": 190,
+          "ws": 1.39
         }
       }
     }
   },
   "Phetchaburi": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phetchaburi&state=Phetchaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phetchaburi&state=Phetchaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phichit": {
     "status": "success",
@@ -1031,20 +1031,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 38,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 56,
           "mainus": "p2",
-          "aqicn": 15,
+          "aqicn": 27,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "10d",
-          "hu": 92,
-          "pr": 1000,
-          "tp": 29,
-          "wd": 160,
-          "ws": 4.08
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 87,
+          "pr": 1004,
+          "tp": 28,
+          "wd": 113,
+          "ws": 1.95
         }
       }
     }
@@ -1064,27 +1064,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 34,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 69,
           "mainus": "p2",
-          "aqicn": 14,
+          "aqicn": 35,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "10d",
-          "hu": 88,
-          "pr": 999,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 89,
+          "pr": 1004,
           "tp": 28,
-          "wd": 173,
-          "ws": 4.47
+          "wd": 129,
+          "ws": 2.71
         }
       }
     }
   },
   "Phra Nakhon Si Ayutthaya": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Phra%20Nakhon%20Si%20Ayutthaya&state=Phra%20Nakhon%20Si%20Ayutthaya&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phra%20Nakhon%20Si%20Ayutthaya&state=Phra%20Nakhon%20Si%20Ayutthaya&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phrae": {
     "status": "success",
@@ -1101,20 +1101,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 19,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 52,
           "mainus": "p2",
-          "aqicn": 5,
+          "aqicn": 13,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 96,
-          "pr": 1000,
-          "tp": 26,
-          "wd": 200,
-          "ws": 3.57
+          "hu": 94,
+          "pr": 1005,
+          "tp": 25,
+          "wd": 179,
+          "ws": 1.54
         }
       }
     }
@@ -1134,27 +1134,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T05:00:00.000Z",
+          "ts": "2025-07-24T23:00:00.000Z",
           "aqius": 54,
           "mainus": "p2",
           "aqicn": 22,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "04d",
-          "hu": 73,
-          "pr": 1006,
-          "tp": 30,
-          "wd": 246,
-          "ws": 8.18
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "02d",
+          "hu": 81,
+          "pr": 1008,
+          "tp": 27,
+          "wd": 265,
+          "ws": 4.99
         }
       }
     }
   },
   "Prachin Buri": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Prachin%20Buri&state=Prachin%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Prachin%20Buri&state=Prachin%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Prachuap Khiri Khan": {
     "status": "success",
@@ -1171,27 +1171,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 33,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 53,
           "mainus": "p2",
-          "aqicn": 9,
+          "aqicn": 14,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 64,
-          "pr": 1004,
-          "tp": 31,
-          "wd": 252,
-          "ws": 8.51
+          "hu": 78,
+          "pr": 1007,
+          "tp": 27,
+          "wd": 266,
+          "ws": 4.11
         }
       }
     }
   },
   "Ranong": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Ranong&state=Ranong&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Ranong&state=Ranong&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Ratchaburi": {
     "status": "success",
@@ -1208,20 +1208,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 11,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 27,
           "mainus": "p2",
-          "aqicn": 3,
+          "aqicn": 7,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 73,
-          "pr": 1002,
-          "tp": 32,
-          "wd": 254,
-          "ws": 8.99
+          "hu": 75,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 197,
+          "ws": 1.63
         }
       }
     }
@@ -1241,20 +1241,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 47,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 54,
           "mainus": "p2",
-          "aqicn": 24,
+          "aqicn": 27,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 69,
-          "pr": 1004,
-          "tp": 31,
-          "wd": 234,
-          "ws": 8.47
+          "hu": 82,
+          "pr": 1006,
+          "tp": 30,
+          "wd": 250,
+          "ws": 4.43
         }
       }
     }
@@ -1274,27 +1274,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 33,
-          "mainus": "o3",
-          "aqicn": 25,
-          "maincn": "o3"
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 49,
+          "mainus": "p2",
+          "aqicn": 19,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 73,
-          "pr": 1002,
-          "tp": 30,
-          "wd": 235,
-          "ws": 5.03
+          "hu": 88,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 232,
+          "ws": 4.41
         }
       }
     }
   },
   "Sa Kaeo": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sa%20Kaeo&state=Sa%20Kaeo&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sa%20Kaeo&state=Sa%20Kaeo&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sakon Nakhon": {
     "status": "success",
@@ -1311,20 +1311,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 21,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 38,
           "mainus": "p2",
-          "aqicn": 7,
+          "aqicn": 13,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 80,
-          "pr": 1001,
-          "tp": 28,
-          "wd": 215,
-          "ws": 5.8
+          "hu": 98,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 337,
+          "ws": 1.42
         }
       }
     }
@@ -1344,20 +1344,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 38,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 58,
           "mainus": "p2",
-          "aqicn": 10,
+          "aqicn": 19,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 71,
-          "pr": 1003,
-          "tp": 31,
-          "wd": 241,
-          "ws": 7.34
+          "hu": 77,
+          "pr": 1006,
+          "tp": 30,
+          "wd": 237,
+          "ws": 3.2
         }
       }
     }
@@ -1377,20 +1377,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 39,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 81,
           "mainus": "p2",
-          "aqicn": 10,
+          "aqicn": 36,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 73,
-          "pr": 1002,
-          "tp": 32,
-          "wd": 250,
-          "ws": 7.12
+          "hu": 74,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 225,
+          "ws": 2.4
         }
       }
     }
@@ -1410,31 +1410,31 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 41,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 58,
           "mainus": "p2",
-          "aqicn": 16,
+          "aqicn": 28,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 80,
-          "pr": 1002,
-          "tp": 32,
-          "wd": 249,
-          "ws": 7.01
+          "hu": 75,
+          "pr": 1006,
+          "tp": 29,
+          "wd": 201,
+          "ws": 1.6
         }
       }
     }
   },
   "Sara Buri": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sara%20Buri&state=Sara%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sara%20Buri&state=Sara%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Satun": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Satun&state=Satun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Satun&state=Satun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sing Buri": {
     "status": "success",
@@ -1451,31 +1451,31 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T03:00:00.000Z",
-          "aqius": 58,
+          "ts": "2025-07-24T23:00:00.000Z",
+          "aqius": 67,
           "mainus": "p2",
-          "aqicn": 18,
+          "aqicn": 25,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "10d",
-          "hu": 71,
-          "pr": 1001,
-          "tp": 32,
-          "wd": 234,
-          "ws": 5.64
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 72,
+          "pr": 1005,
+          "tp": 29,
+          "wd": 193,
+          "ws": 3.62
         }
       }
     }
   },
   "Sisaket": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Sisaket&state=Sisaket&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sisaket&state=Sisaket&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Songkhla": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Songkhla&state=Songkhla&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Songkhla&state=Songkhla&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sukhothai": {
     "status": "success",
@@ -1492,27 +1492,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 23,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 27,
           "mainus": "p2",
-          "aqicn": 10,
+          "aqicn": 17,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "ic": "10d",
-          "hu": 91,
-          "pr": 1000,
-          "tp": 27,
-          "wd": 180,
-          "ws": 3.82
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 90,
+          "pr": 1004,
+          "tp": 28,
+          "wd": 132,
+          "ws": 2.13
         }
       }
     }
   },
   "Suphan Buri": {
     "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Suphan%20Buri&state=Suphan%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Suphan%20Buri&state=Suphan%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Surat Thani": {
     "status": "success",
@@ -1529,20 +1529,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 50,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 53,
           "mainus": "p2",
-          "aqicn": 13,
+          "aqicn": 14,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "ic": "04d",
-          "hu": 51,
-          "pr": 1005,
-          "tp": 32,
-          "wd": 258,
-          "ws": 8.97
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "03d",
+          "hu": 94,
+          "pr": 1008,
+          "tp": 26,
+          "wd": 200,
+          "ws": 4.49
         }
       }
     }
@@ -1562,20 +1562,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 39,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 62,
           "mainus": "p2",
-          "aqicn": 16,
-          "maincn": "o3"
+          "aqicn": 21,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 77,
-          "pr": 1001,
-          "tp": 33,
-          "wd": 240,
-          "ws": 8.86
+          "hu": 89,
+          "pr": 1006,
+          "tp": 27,
+          "wd": 219,
+          "ws": 4.4
         }
       }
     }
@@ -1595,20 +1595,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 11,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 39,
           "mainus": "p2",
-          "aqicn": 3,
+          "aqicn": 10,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 92,
-          "pr": 1000,
+          "hu": 91,
+          "pr": 1005,
           "tp": 27,
-          "wd": 236,
-          "ws": 4.96
+          "wd": 234,
+          "ws": 2.41
         }
       }
     }
@@ -1628,20 +1628,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 47,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 59,
           "mainus": "p2",
-          "aqicn": 14,
+          "aqicn": 26,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "ic": "02d",
-          "hu": 57,
-          "pr": 1005,
-          "tp": 32,
-          "wd": 258,
-          "ws": 3.84
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 97,
+          "pr": 1007,
+          "tp": 25,
+          "wd": 78,
+          "ws": 0.59
         }
       }
     }
@@ -1661,20 +1661,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 77,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 70,
           "mainus": "p2",
-          "aqicn": 33,
-          "maincn": "p2"
+          "aqicn": 80,
+          "maincn": "s2"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 78,
-          "pr": 1004,
-          "tp": 30,
-          "wd": 236,
-          "ws": 4.54
+          "hu": 87,
+          "pr": 1007,
+          "tp": 28,
+          "wd": 234,
+          "ws": 0.96
         }
       }
     }
@@ -1694,20 +1694,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 44,
-          "mainus": "p1",
-          "aqicn": 47,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 56,
+          "mainus": "p2",
+          "aqicn": 35,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 82,
-          "pr": 1000,
-          "tp": 29,
-          "wd": 198,
-          "ws": 4.29
+          "hu": 95,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 31,
+          "ws": 1.67
         }
       }
     }
@@ -1727,20 +1727,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 58,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 60,
           "mainus": "p2",
-          "aqicn": 20,
+          "aqicn": 35,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 82,
-          "pr": 999,
-          "tp": 31,
-          "wd": 219,
-          "ws": 4.95
+          "hu": 75,
+          "pr": 1005,
+          "tp": 29,
+          "wd": 195,
+          "ws": 3.35
         }
       }
     }
@@ -1760,20 +1760,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 23,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 30,
           "mainus": "p2",
-          "aqicn": 18,
-          "maincn": "s2"
+          "aqicn": 17,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
-          "ic": "10d",
-          "hu": 93,
-          "pr": 999,
-          "tp": 27,
-          "wd": 194,
-          "ws": 3.36
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "04d",
+          "hu": 94,
+          "pr": 1005,
+          "tp": 26,
+          "wd": 151,
+          "ws": 0.77
         }
       }
     }
@@ -1793,26 +1793,55 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-07-23T06:00:00.000Z",
-          "aqius": 23,
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 51,
           "mainus": "p2",
-          "aqicn": 6,
+          "aqicn": 13,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-07-23T07:00:00.000Z",
+          "ts": "2025-07-25T00:00:00.000Z",
           "ic": "04d",
-          "hu": 55,
-          "pr": 1003,
-          "tp": 33,
-          "wd": 263,
-          "ws": 4.52
+          "hu": 92,
+          "pr": 1008,
+          "tp": 26,
+          "wd": 207,
+          "ws": 1.37
         }
       }
     }
   },
   "Yasothon": {
-    "status": "error",
-    "message": "429 Client Error: Too Many Requests for url: http://api.airvisual.com/v2/city?city=Yasothon&state=Yasothon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
+    "status": "success",
+    "data": {
+      "city": "Yasothon",
+      "state": "Yasothon",
+      "country": "Thailand",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          104.1451,
+          15.79408
+        ]
+      },
+      "current": {
+        "pollution": {
+          "ts": "2025-07-25T00:00:00.000Z",
+          "aqius": 67,
+          "mainus": "p2",
+          "aqicn": 25,
+          "maincn": "p2"
+        },
+        "weather": {
+          "ts": "2025-07-25T00:00:00.000Z",
+          "ic": "10d",
+          "hu": 91,
+          "pr": 1005,
+          "tp": 27,
+          "wd": 230,
+          "ws": 2.91
+        }
+      }
+    }
   }
 }
