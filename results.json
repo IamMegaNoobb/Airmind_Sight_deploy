@@ -1,37 +1,7 @@
 {
   "Amnat Charoen": {
-    "status": "success",
-    "data": {
-      "city": "Amnat Charoen",
-      "state": "Amnat Charoen",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.62883,
-          15.85851
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 58,
-          "mainus": "p2",
-          "aqicn": 21,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 79,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 37,
-          "ws": 6.57,
-          "heatIndex": 24
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Amnat%20Charoen&state=Amnat%20Charoen&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Ang Thong": {
     "status": "success",
@@ -48,21 +18,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 71,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 66,
           "mainus": "p2",
-          "aqicn": 35,
-          "maincn": "p1"
+          "aqicn": 24,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 72,
-          "pr": 1013,
-          "tp": 26,
-          "wd": 15,
-          "ws": 2.97,
-          "heatIndex": 26
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 78,
+          "pr": 1011,
+          "tp": 23,
+          "wd": 349,
+          "ws": 3.75,
+          "heatIndex": 23
         }
       }
     }
@@ -82,20 +52,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 82,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 49,
-          "maincn": "p1"
+          "aqicn": 29,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 83,
-          "pr": 1013,
+          "hu": 86,
+          "pr": 1012,
           "tp": 23,
-          "wd": 15,
-          "ws": 2.89,
+          "wd": 343,
+          "ws": 3.92,
           "heatIndex": 23
         }
       }
@@ -120,92 +90,32 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 112,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 88,
           "mainus": "p2",
-          "aqicn": 56,
+          "aqicn": 41,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 77,
-          "pr": 1013,
-          "tp": 25,
-          "wd": 24,
-          "ws": 2.41,
-          "heatIndex": 25
+          "hu": 90,
+          "pr": 1011,
+          "tp": 23,
+          "wd": 35,
+          "ws": 0.88,
+          "heatIndex": 23
         }
       }
     }
   },
   "Chai Nat": {
-    "status": "success",
-    "data": {
-      "city": "Chai Nat",
-      "state": "Chai Nat",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.12353,
-          15.18636
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 66,
-          "mainus": "p2",
-          "aqicn": 25,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 66,
-          "pr": 1014,
-          "tp": 25,
-          "wd": 15,
-          "ws": 1.78,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chai%20Nat&state=Chai%20Nat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chaiyaphum": {
-    "status": "success",
-    "data": {
-      "city": "Chaiyaphum",
-      "state": "Chaiyaphum",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.02881,
-          15.81047
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 59,
-          "mainus": "p2",
-          "aqicn": 26,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 78,
-          "pr": 1014,
-          "tp": 24,
-          "wd": 23,
-          "ws": 2.91,
-          "heatIndex": 24
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chaiyaphum&state=Chaiyaphum&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Changwat Bueng Kan": {
     "status": "error",
@@ -216,38 +126,8 @@
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Changwat%20Ubon%20Ratchathani&state=Changwat%20Ubon%20Ratchathani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chanthaburi": {
-    "status": "success",
-    "data": {
-      "city": "Chanthaburi",
-      "state": "Chanthaburi",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          102.10447,
-          12.60961
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 58,
-          "mainus": "p2",
-          "aqicn": 35,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 82,
-          "pr": 1012,
-          "tp": 23,
-          "wd": 10,
-          "ws": 1.5,
-          "heatIndex": 23
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chanthaburi&state=Chanthaburi&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Chiang Mai": {
     "status": "success",
@@ -264,21 +144,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 85,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 75,
           "mainus": "p2",
-          "aqicn": 39,
+          "aqicn": 31,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 69,
-          "pr": 1015,
-          "tp": 23,
-          "wd": 250,
+          "hu": 88,
+          "pr": 1014,
+          "tp": 20,
+          "wd": 220,
           "ws": 2.06,
-          "heatIndex": 23
+          "heatIndex": 20
         }
       }
     }
@@ -298,21 +178,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 102,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 84,
           "mainus": "p2",
-          "aqicn": 51,
+          "aqicn": 38,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 80,
-          "pr": 1016,
-          "tp": 19,
-          "wd": 125,
-          "ws": 0.28,
-          "heatIndex": 19
+          "hu": 86,
+          "pr": 1015,
+          "tp": 17,
+          "wd": 32,
+          "ws": 0.25,
+          "heatIndex": 17
         }
       }
     }
@@ -332,126 +212,36 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 104,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 86,
           "mainus": "p2",
-          "aqicn": 52,
+          "aqicn": 40,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 74,
-          "pr": 1009,
-          "tp": 22,
-          "wd": 36,
-          "ws": 3.71,
-          "heatIndex": 22
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 80,
+          "pr": 1008,
+          "tp": 21,
+          "wd": 23,
+          "ws": 3.42,
+          "heatIndex": 21
         }
       }
     }
   },
   "Chumphon": {
-    "status": "success",
-    "data": {
-      "city": "Chumphon",
-      "state": "Chumphon",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.17971,
-          10.4957
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 63,
-          "mainus": "p2",
-          "aqicn": 29,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 86,
-          "pr": 1012,
-          "tp": 24,
-          "wd": 27,
-          "ws": 3.38,
-          "heatIndex": 24
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Chumphon&state=Chumphon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kalasin": {
-    "status": "success",
-    "data": {
-      "city": "Kalasin",
-      "state": "Kalasin",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          103.50658,
-          16.43281
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 85,
-          "mainus": "p2",
-          "aqicn": 55,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 1,
-          "pr": 1014,
-          "tp": 25,
-          "wd": 40,
-          "ws": 2.98,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Kalasin&state=Kalasin&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kamphaeng Phet": {
-    "status": "success",
-    "data": {
-      "city": "Kamphaeng Phet",
-      "state": "Kamphaeng Phet",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.5420856,
-          16.4741852
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 93,
-          "mainus": "p2",
-          "aqicn": 54,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 68,
-          "pr": 1014,
-          "tp": 23,
-          "wd": 310,
-          "ws": 1.93,
-          "heatIndex": 23
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Kamphaeng%20Phet&state=Kamphaeng%20Phet&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Kanchanaburi": {
     "status": "success",
@@ -468,20 +258,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 92,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 98,
           "mainus": "p2",
-          "aqicn": 44,
+          "aqicn": 49,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 89,
-          "pr": 1015,
+          "hu": 87,
+          "pr": 1012,
           "tp": 18,
-          "wd": 109,
-          "ws": 1.38,
+          "wd": 74,
+          "ws": 1.11,
           "heatIndex": 18
         }
       }
@@ -502,21 +292,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 83,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 96,
           "mainus": "p2",
-          "aqicn": 38,
+          "aqicn": 47,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 65,
-          "pr": 1014,
-          "tp": 26,
-          "wd": 20,
-          "ws": 2.57,
-          "heatIndex": 26
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 73,
+          "pr": 1013,
+          "tp": 23,
+          "wd": 10,
+          "ws": 3.09,
+          "heatIndex": 23
         }
       }
     }
@@ -536,21 +326,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 66,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 53,
           "mainus": "p2",
-          "aqicn": 24,
+          "aqicn": 14,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 88,
-          "pr": 1011,
-          "tp": 25,
-          "wd": 20,
-          "ws": 3.09,
-          "heatIndex": 25
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 100,
+          "pr": 1008,
+          "tp": 23,
+          "wd": 40,
+          "ws": 1.54,
+          "heatIndex": 23
         }
       }
     }
@@ -570,21 +360,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 75,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 69,
           "mainus": "p2",
-          "aqicn": 31,
+          "aqicn": 27,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 80,
-          "pr": 1016,
-          "tp": 20,
-          "wd": 21,
-          "ws": 0.92,
-          "heatIndex": 20
+          "hu": 84,
+          "pr": 1014,
+          "tp": 19,
+          "wd": 8,
+          "ws": 1.27,
+          "heatIndex": 19
         }
       }
     }
@@ -608,20 +398,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 69,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 64,
           "mainus": "p2",
-          "aqicn": 38,
-          "maincn": "p1"
+          "aqicn": 23,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
           "hu": 82,
-          "pr": 1015,
+          "pr": 1013,
           "tp": 23,
-          "wd": 308,
-          "ws": 1.17,
+          "wd": 334,
+          "ws": 1,
           "heatIndex": 23
         }
       }
@@ -636,106 +426,16 @@
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Mae%20Hong%20Son&state=Mae%20Hong%20Son&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Maha Sarakham": {
-    "status": "success",
-    "data": {
-      "city": "Maha Sarakham",
-      "state": "Maha Sarakham",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          103.30067,
-          16.18483
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 160,
-          "mainus": "p2",
-          "aqicn": 92,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 74,
-          "pr": 1014,
-          "tp": 25,
-          "wd": 18,
-          "ws": 3.55,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Maha%20Sarakham&state=Maha%20Sarakham&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Mukdahan": {
-    "status": "success",
-    "data": {
-      "city": "Mukdahan",
-      "state": "Mukdahan",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.72351,
-          16.54531
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 60,
-          "mainus": "p2",
-          "aqicn": 32,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 79,
-          "pr": 1014,
-          "tp": 24,
-          "wd": 47,
-          "ws": 5.05,
-          "heatIndex": 24
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Mukdahan&state=Mukdahan&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Nayok": {
-    "status": "success",
-    "data": {
-      "city": "Nakhon Nayok",
-      "state": "Nakhon Nayok",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.21295,
-          14.20463
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 59,
-          "mainus": "p2",
-          "aqicn": 19,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 77,
-          "pr": 1013,
-          "tp": 27,
-          "wd": 11,
-          "ws": 1.87,
-          "heatIndex": 29
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Nakhon%20Nayok&state=Nakhon%20Nayok&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nakhon Pathom": {
     "status": "success",
@@ -752,21 +452,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "aqius": 75,
           "mainus": "p2",
           "aqicn": 31,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 72,
-          "pr": 1014,
-          "tp": 27,
-          "wd": 8,
-          "ws": 3.37,
-          "heatIndex": 29
+          "hu": 81,
+          "pr": 1012,
+          "tp": 23,
+          "wd": 339,
+          "ws": 3.7,
+          "heatIndex": 23
         }
       }
     }
@@ -786,21 +486,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 54,
+          "ts": "2025-12-11T18:00:00.000Z",
+          "aqius": 72,
           "mainus": "p2",
           "aqicn": 70,
           "maincn": "s2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 78,
-          "pr": 1014,
-          "tp": 24,
-          "wd": 60,
-          "ws": 1.54,
-          "heatIndex": 24
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 93,
+          "pr": 1013,
+          "tp": 20,
+          "wd": 23,
+          "ws": 1.29,
+          "heatIndex": 20
         }
       }
     }
@@ -820,20 +520,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 96,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 92,
           "mainus": "p2",
-          "aqicn": 48,
+          "aqicn": 45,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
           "hu": 100,
-          "pr": 1013,
+          "pr": 1012,
           "tp": 24,
-          "wd": 359,
-          "ws": 2.87,
+          "wd": 43,
+          "ws": 3.35,
           "heatIndex": 24
         }
       }
@@ -854,21 +554,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 56,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 66,
           "mainus": "p2",
-          "aqicn": 17,
+          "aqicn": 24,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 70,
-          "pr": 1013,
-          "tp": 25,
-          "wd": 21,
-          "ws": 1.31,
-          "heatIndex": 25
+          "hu": 72,
+          "pr": 1011,
+          "tp": 19,
+          "wd": 350,
+          "ws": 2.32,
+          "heatIndex": 19
         }
       }
     }
@@ -888,20 +588,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 17,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 11,
           "mainus": "p2",
-          "aqicn": 4,
+          "aqicn": 3,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 94,
-          "pr": 1012,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "10n",
+          "hu": 99,
+          "pr": 1008,
           "tp": 23,
-          "wd": 290,
-          "ws": 2.06,
+          "wd": 113,
+          "ws": 1.09,
           "heatIndex": 23
         }
       }
@@ -926,21 +626,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T10:00:00.000Z",
+          "ts": "2025-12-11T09:00:00.000Z",
           "aqius": 31,
           "mainus": "p2",
           "aqicn": 8,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 92,
-          "pr": 1011,
-          "tp": 25,
-          "wd": 89,
-          "ws": 1.4,
-          "heatIndex": 25
+          "hu": 94,
+          "pr": 1008,
+          "tp": 24,
+          "wd": 165,
+          "ws": 2.48,
+          "heatIndex": 24
         }
       }
     }
@@ -960,21 +660,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 91,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 77,
           "mainus": "p2",
-          "aqicn": 51,
-          "maincn": "p1"
+          "aqicn": 33,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 72,
-          "pr": 1015,
-          "tp": 25,
-          "wd": 352,
-          "ws": 1.69,
-          "heatIndex": 25
+          "hu": 76,
+          "pr": 1013,
+          "tp": 24,
+          "wd": 26,
+          "ws": 0.84,
+          "heatIndex": 24
         }
       }
     }
@@ -994,21 +694,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 136,
+          "ts": "2025-12-11T20:00:00.000Z",
+          "aqius": 75,
           "mainus": "p2",
-          "aqicn": 87,
-          "maincn": "p1"
+          "aqicn": 31,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 74,
-          "pr": 1014,
-          "tp": 23,
-          "wd": 325,
-          "ws": 1.96,
-          "heatIndex": 23
+          "hu": 75,
+          "pr": 1013,
+          "tp": 25,
+          "wd": 17,
+          "ws": 1.01,
+          "heatIndex": 25
         }
       }
     }
@@ -1032,19 +732,19 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 79,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 34,
+          "aqicn": 29,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "03n",
           "hu": 88,
-          "pr": 1013,
+          "pr": 1011,
           "tp": 22,
-          "wd": 320,
+          "wd": 330,
           "ws": 4.63,
           "heatIndex": 22
         }
@@ -1052,76 +752,16 @@
     }
   },
   "Pattani": {
-    "status": "success",
-    "data": {
-      "city": "Pattani",
-      "state": "Pattani",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.25009,
-          6.86814
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 24,
-          "mainus": "p2",
-          "aqicn": 13,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 99,
-          "pr": 1011,
-          "tp": 25,
-          "wd": 88,
-          "ws": 2.71,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Pattani&state=Pattani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phangnga": {
     "status": "error",
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phangnga&state=Phangnga&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phatthalung": {
-    "status": "success",
-    "data": {
-      "city": "Phatthalung",
-      "state": "Phatthalung",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.07792,
-          7.61786
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 49,
-          "mainus": "p2",
-          "aqicn": 14,
-          "maincn": "o3"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 88,
-          "pr": 1011,
-          "tp": 25,
-          "wd": 359,
-          "ws": 1.2,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phatthalung&state=Phatthalung&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phayao": {
     "status": "error",
@@ -1142,21 +782,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 77,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 69,
           "mainus": "p2",
-          "aqicn": 37,
-          "maincn": "p1"
+          "aqicn": 27,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 84,
-          "pr": 1015,
-          "tp": 23,
-          "wd": 37,
-          "ws": 1.53,
-          "heatIndex": 23
+          "hu": 83,
+          "pr": 1012,
+          "tp": 22,
+          "wd": 18,
+          "ws": 2.72,
+          "heatIndex": 22
         }
       }
     }
@@ -1180,21 +820,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 90,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 43,
+          "aqicn": 29,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
           "hu": 100,
-          "pr": 1013,
-          "tp": 26,
-          "wd": 347,
-          "ws": 2.03,
-          "heatIndex": 26
+          "pr": 1012,
+          "tp": 24,
+          "wd": 338,
+          "ws": 2.54,
+          "heatIndex": 24
         }
       }
     }
@@ -1214,21 +854,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 56,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 68,
           "mainus": "p2",
-          "aqicn": 36,
+          "aqicn": 27,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 100,
-          "pr": 1013,
-          "tp": 21,
-          "wd": 340,
-          "ws": 1.54,
-          "heatIndex": 21
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 72,
+          "pr": 1012,
+          "tp": 24,
+          "wd": 339,
+          "ws": 1.94,
+          "heatIndex": 24
         }
       }
     }
@@ -1253,20 +893,20 @@
       "current": {
         "pollution": {
           "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 87,
+          "aqius": 92,
           "mainus": "p2",
-          "aqicn": 41,
+          "aqicn": 44,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 90,
-          "pr": 1015,
-          "tp": 21,
-          "wd": 67,
-          "ws": 1.1,
-          "heatIndex": 21
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 87,
+          "pr": 1013,
+          "tp": 20,
+          "wd": 22,
+          "ws": 0.97,
+          "heatIndex": 20
         }
       }
     }
@@ -1286,21 +926,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T10:00:00.000Z",
+          "ts": "2025-12-11T09:00:00.000Z",
           "aqius": 61,
           "mainus": "p2",
           "aqicn": 29,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 74,
-          "pr": 1011,
-          "tp": 26,
-          "wd": 350,
-          "ws": 3.69,
-          "heatIndex": 26
+          "hu": 80,
+          "pr": 1008,
+          "tp": 25,
+          "wd": 27,
+          "ws": 3.15,
+          "heatIndex": 25
         }
       }
     }
@@ -1324,21 +964,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 75,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 68,
           "mainus": "p2",
-          "aqicn": 31,
+          "aqicn": 26,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 71,
-          "pr": 1012,
-          "tp": 24,
-          "wd": 1,
-          "ws": 3.15,
-          "heatIndex": 24
+          "hu": 88,
+          "pr": 1010,
+          "tp": 22,
+          "wd": 357,
+          "ws": 2.83,
+          "heatIndex": 22
         }
       }
     }
@@ -1362,21 +1002,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 49,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 54,
           "mainus": "p2",
-          "aqicn": 13,
+          "aqicn": 16,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 76,
-          "pr": 1014,
-          "tp": 25,
-          "wd": 325,
-          "ws": 2.52,
-          "heatIndex": 25
+          "hu": 79,
+          "pr": 1011,
+          "tp": 22,
+          "wd": 315,
+          "ws": 2.54,
+          "heatIndex": 22
         }
       }
     }
@@ -1396,96 +1036,36 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 94,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 111,
           "mainus": "p2",
-          "aqicn": 46,
+          "aqicn": 56,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 81,
-          "pr": 1012,
-          "tp": 26,
-          "wd": 5,
-          "ws": 4.18,
-          "heatIndex": 26
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 83,
+          "pr": 1010,
+          "tp": 24,
+          "wd": 22,
+          "ws": 2.68,
+          "heatIndex": 24
         }
       }
     }
   },
   "Roi Et": {
-    "status": "success",
-    "data": {
-      "city": "Roi Et",
-      "state": "Roi Et",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          103.65309,
-          16.0567
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 99,
-          "mainus": "p2",
-          "aqicn": 52,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 78,
-          "pr": 1013,
-          "tp": 23,
-          "wd": 20,
-          "ws": 2.57,
-          "heatIndex": 23
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Roi%20Et&state=Roi%20Et&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sa Kaeo": {
     "status": "error",
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sa%20Kaeo&state=Sa%20Kaeo&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sakon Nakhon": {
-    "status": "success",
-    "data": {
-      "city": "Sakon Nakhon",
-      "state": "Sakon Nakhon",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.14725,
-          17.16116
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 48,
-          "mainus": "p2",
-          "aqicn": 20,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 80,
-          "pr": 1014,
-          "tp": 25,
-          "wd": 93,
-          "ws": 2.25,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sakon%20Nakhon&state=Sakon%20Nakhon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Samut Prakan": {
     "status": "success",
@@ -1502,21 +1082,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 84,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 73,
           "mainus": "p2",
-          "aqicn": 39,
+          "aqicn": 30,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 83,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 320,
-          "ws": 5.14,
-          "heatIndex": 24
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 88,
+          "pr": 1012,
+          "tp": 23,
+          "wd": 330,
+          "ws": 4.63,
+          "heatIndex": 23
         }
       }
     }
@@ -1536,21 +1116,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 78,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 69,
           "mainus": "p2",
-          "aqicn": 34,
+          "aqicn": 27,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 75,
-          "pr": 1014,
-          "tp": 26,
-          "wd": 341,
-          "ws": 3.24,
-          "heatIndex": 26
+          "hu": 81,
+          "pr": 1012,
+          "tp": 23,
+          "wd": 340,
+          "ws": 4.25,
+          "heatIndex": 23
         }
       }
     }
@@ -1570,21 +1150,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 84,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 91,
           "mainus": "p2",
-          "aqicn": 38,
+          "aqicn": 44,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 74,
-          "pr": 1013,
-          "tp": 26,
-          "wd": 328,
-          "ws": 2.54,
-          "heatIndex": 26
+          "hu": 78,
+          "pr": 1011,
+          "tp": 22,
+          "wd": 331,
+          "ws": 3.67,
+          "heatIndex": 22
         }
       }
     }
@@ -1598,38 +1178,8 @@
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Satun&state=Satun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sing Buri": {
-    "status": "success",
-    "data": {
-      "city": "Sing Buri",
-      "state": "Sing Buri",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.40464,
-          14.88786
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 71,
-          "mainus": "p2",
-          "aqicn": 29,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 75,
-          "pr": 1013,
-          "tp": 26,
-          "wd": 17,
-          "ws": 2.58,
-          "heatIndex": 26
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sing%20Buri&state=Sing%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sisaket": {
     "status": "error",
@@ -1640,38 +1190,8 @@
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Songkhla&state=Songkhla&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sukhothai": {
-    "status": "success",
-    "data": {
-      "city": "Sukhothai",
-      "state": "Sukhothai",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.823,
-          17.00778
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 119,
-          "mainus": "p2",
-          "aqicn": 71,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 68,
-          "pr": 1013,
-          "tp": 23,
-          "wd": 327,
-          "ws": 1.31,
-          "heatIndex": 23
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sukhothai&state=Sukhothai&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Suphan Buri": {
     "status": "error",
@@ -1692,21 +1212,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 55,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 11,
           "mainus": "p2",
-          "aqicn": 16,
+          "aqicn": 3,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
           "hu": 100,
-          "pr": 1011,
-          "tp": 26,
-          "wd": 62,
+          "pr": 1008,
+          "tp": 25,
+          "wd": 185,
           "ws": 0.89,
-          "heatIndex": 26
+          "heatIndex": 25
         }
       }
     }
@@ -1726,21 +1246,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 75,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 28,
           "mainus": "p2",
-          "aqicn": 31,
+          "aqicn": 7,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 79,
-          "pr": 1013,
-          "tp": 24,
+          "hu": 82,
+          "pr": 1011,
+          "tp": 22,
           "wd": 28,
-          "ws": 4,
-          "heatIndex": 24
+          "ws": 3.21,
+          "heatIndex": 22
         }
       }
     }
@@ -1760,58 +1280,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 144,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 92,
           "mainus": "p2",
-          "aqicn": 73,
+          "aqicn": 44,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 69,
-          "pr": 1015,
-          "tp": 22,
-          "wd": 273,
-          "ws": 1.22,
-          "heatIndex": 22
+          "hu": 72,
+          "pr": 1013,
+          "tp": 21,
+          "wd": 326,
+          "ws": 1.31,
+          "heatIndex": 21
         }
       }
     }
   },
   "Trang": {
-    "status": "success",
-    "data": {
-      "city": "Trang",
-      "state": "Trang",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.61141,
-          7.55633
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 42,
-          "mainus": "p2",
-          "aqicn": 13,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 94,
-          "pr": 1011,
-          "tp": 26,
-          "wd": 40,
-          "ws": 2.57,
-          "heatIndex": 26
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Trang&state=Trang&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Trat": {
     "status": "success",
@@ -1828,21 +1318,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 65,
+          "ts": "2025-12-11T20:00:00.000Z",
+          "aqius": 60,
           "mainus": "p2",
-          "aqicn": 24,
+          "aqicn": 20,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 81,
-          "pr": 1011,
-          "tp": 24,
-          "wd": 28,
-          "ws": 1.61,
-          "heatIndex": 24
+          "hu": 96,
+          "pr": 1009,
+          "tp": 21,
+          "wd": 15,
+          "ws": 1.78,
+          "heatIndex": 21
         }
       }
     }
@@ -1862,58 +1352,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 101,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 110,
           "mainus": "p2",
-          "aqicn": 51,
+          "aqicn": 55,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 65,
-          "pr": 1014,
+          "hu": 79,
+          "pr": 1013,
           "tp": 25,
-          "wd": 350,
-          "ws": 2.57,
+          "wd": 71,
+          "ws": 1.44,
           "heatIndex": 25
         }
       }
     }
   },
   "Uthai Thani": {
-    "status": "success",
-    "data": {
-      "city": "Uthai Thani",
-      "state": "Uthai Thani",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.0199443,
-          15.3803758
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 80,
-          "mainus": "p2",
-          "aqicn": 35,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 63,
-          "pr": 1013,
-          "tp": 25,
-          "wd": 5,
-          "ws": 1.37,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Uthai%20Thani&state=Uthai%20Thani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Uttaradit": {
     "status": "success",
@@ -1930,20 +1390,20 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "aqius": 56,
+          "ts": "2025-12-11T21:00:00.000Z",
+          "aqius": 78,
           "mainus": "p2",
-          "aqicn": 20,
-          "maincn": "p1"
+          "aqicn": 34,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
+          "ts": "2025-12-11T21:00:00.000Z",
+          "ic": "04n",
           "hu": 99,
-          "pr": 1014,
+          "pr": 1012,
           "tp": 21,
-          "wd": 19,
-          "ws": 1.72,
+          "wd": 357,
+          "ws": 1.26,
           "heatIndex": 21
         }
       }
@@ -1964,57 +1424,27 @@
       },
       "current": {
         "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 24,
+          "ts": "2025-12-11T20:00:00.000Z",
+          "aqius": 51,
           "mainus": "p2",
-          "aqicn": 6,
+          "aqicn": 13,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
+          "ts": "2025-12-11T21:00:00.000Z",
           "ic": "04n",
-          "hu": 93,
-          "pr": 1011,
-          "tp": 25,
-          "wd": 343,
-          "ws": 1.34,
-          "heatIndex": 25
+          "hu": 96,
+          "pr": 1008,
+          "tp": 24,
+          "wd": 260,
+          "ws": 0.46,
+          "heatIndex": 24
         }
       }
     }
   },
   "Yasothon": {
-    "status": "success",
-    "data": {
-      "city": "Yasothon",
-      "state": "Yasothon",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          104.1451,
-          15.79408
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2025-12-11T13:00:00.000Z",
-          "aqius": 77,
-          "mainus": "p2",
-          "aqicn": 33,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2025-12-11T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 77,
-          "pr": 1013,
-          "tp": 25,
-          "wd": 46,
-          "ws": 5.78,
-          "heatIndex": 25
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Yasothon&state=Yasothon&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   }
 }
