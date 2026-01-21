@@ -14,21 +14,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 70,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 81,
           "mainus": "p2",
-          "aqicn": 28,
+          "aqicn": 36,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 52,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "01n",
+          "hu": 84,
           "pr": 1014,
-          "tp": 21,
-          "wd": 57,
-          "ws": 7.27,
-          "heatIndex": 21
+          "tp": 16,
+          "wd": 55,
+          "ws": 5.27,
+          "heatIndex": 16
         }
       }
     }
@@ -48,21 +48,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 79,
-          "mainus": "p1",
-          "aqicn": 81,
-          "maincn": "p1"
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 91,
+          "mainus": "p2",
+          "aqicn": 44,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 40,
+          "hu": 63,
           "pr": 1012,
-          "tp": 27,
-          "wd": 148,
-          "ws": 1.94,
-          "heatIndex": 27
+          "tp": 23,
+          "wd": 144,
+          "ws": 2.15,
+          "heatIndex": 23
         }
       }
     }
@@ -82,21 +82,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 112,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 95,
           "mainus": "p2",
-          "aqicn": 63,
+          "aqicn": 53,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 66,
-          "pr": 1012,
-          "tp": 27,
-          "wd": 197,
-          "ws": 4.45,
-          "heatIndex": 29
+          "hu": 90,
+          "pr": 1011,
+          "tp": 24,
+          "wd": 130,
+          "ws": 1.67,
+          "heatIndex": 24
         }
       }
     }
@@ -120,21 +120,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 124,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 152,
           "mainus": "p2",
-          "aqicn": 63,
+          "aqicn": 78,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 69,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 81,
           "pr": 1012,
-          "tp": 24,
-          "wd": 170,
-          "ws": 2.76,
-          "heatIndex": 24
+          "tp": 23,
+          "wd": 116,
+          "ws": 2.53,
+          "heatIndex": 23
         }
       }
     }
@@ -154,21 +154,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 152,
+          "ts": "2026-01-21T15:00:00.000Z",
+          "aqius": 158,
           "mainus": "p2",
-          "aqicn": 78,
+          "aqicn": 88,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 36,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 54,
           "pr": 1012,
-          "tp": 27,
-          "wd": 87,
-          "ws": 3.7,
-          "heatIndex": 27
+          "tp": 22,
+          "wd": 293,
+          "ws": 0.15,
+          "heatIndex": 22
         }
       }
     }
@@ -188,21 +188,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 72,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 84,
           "mainus": "p2",
-          "aqicn": 29,
+          "aqicn": 38,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 41,
+          "hu": 60,
           "pr": 1014,
-          "tp": 23,
-          "wd": 69,
-          "ws": 3.03,
-          "heatIndex": 23
+          "tp": 20,
+          "wd": 53,
+          "ws": 4.07,
+          "heatIndex": 20
         }
       }
     }
@@ -230,21 +230,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 90,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 96,
           "mainus": "p2",
-          "aqicn": 43,
+          "aqicn": 47,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 81,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 167,
-          "ws": 1.25,
-          "heatIndex": 24
+          "hu": 94,
+          "pr": 1012,
+          "tp": 20,
+          "wd": 45,
+          "ws": 1.81,
+          "heatIndex": 20
         }
       }
     }
@@ -264,21 +264,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "aqius": 66,
           "mainus": "p2",
           "aqicn": 24,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 42,
-          "pr": 1013,
-          "tp": 21,
-          "wd": 306,
-          "ws": 1.65,
-          "heatIndex": 21
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 88,
+          "pr": 1014,
+          "tp": 16,
+          "wd": 0,
+          "ws": 0.51,
+          "heatIndex": 16
         }
       }
     }
@@ -298,21 +298,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 84,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 73,
           "mainus": "p2",
-          "aqicn": 39,
+          "aqicn": 30,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 50,
-          "pr": 1014,
-          "tp": 18,
+          "hu": 66,
+          "pr": 1015,
+          "tp": 14,
           "wd": 306,
-          "ws": 1.55,
-          "heatIndex": 18
+          "ws": 0.99,
+          "heatIndex": 14
         }
       }
     }
@@ -332,21 +332,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 108,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 147,
           "mainus": "p2",
-          "aqicn": 54,
+          "aqicn": 74,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 83,
+          "hu": 99,
           "pr": 1012,
-          "tp": 25,
-          "wd": 181,
-          "ws": 4.06,
-          "heatIndex": 25
+          "tp": 24,
+          "wd": 98,
+          "ws": 2.72,
+          "heatIndex": 24
         }
       }
     }
@@ -366,21 +366,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 67,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 74,
           "mainus": "p2",
-          "aqicn": 28,
-          "maincn": "o3"
+          "aqicn": 31,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 84,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 123,
-          "ws": 2.89,
-          "heatIndex": 24
+          "hu": 86,
+          "pr": 1011,
+          "tp": 23,
+          "wd": 127,
+          "ws": 2.69,
+          "heatIndex": 23
         }
       }
     }
@@ -400,21 +400,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 101,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 95,
           "mainus": "p2",
-          "aqicn": 65,
-          "maincn": "p1"
+          "aqicn": 47,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 43,
+          "hu": 70,
           "pr": 1014,
-          "tp": 21,
-          "wd": 82,
-          "ws": 5.04,
-          "heatIndex": 21
+          "tp": 17,
+          "wd": 88,
+          "ws": 3.15,
+          "heatIndex": 17
         }
       }
     }
@@ -434,21 +434,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 95,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 158,
           "mainus": "p2",
-          "aqicn": 51,
-          "maincn": "p1"
+          "aqicn": 89,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 35,
+          "hu": 51,
           "pr": 1012,
-          "tp": 26,
-          "wd": 205,
-          "ws": 1.06,
-          "heatIndex": 26
+          "tp": 22,
+          "wd": 203,
+          "ws": 1.41,
+          "heatIndex": 22
         }
       }
     }
@@ -468,21 +468,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 157,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 154,
           "mainus": "p2",
-          "aqicn": 86,
+          "aqicn": 81,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 80,
-          "pr": 1014,
-          "tp": 18,
-          "wd": 226,
-          "ws": 0.71,
-          "heatIndex": 18
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 87,
+          "pr": 1013,
+          "tp": 17,
+          "wd": 82,
+          "ws": 0.53,
+          "heatIndex": 17
         }
       }
     }
@@ -502,21 +502,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 86,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 40,
+          "aqicn": 29,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 40,
-          "pr": 1013,
-          "tp": 23,
-          "wd": 123,
-          "ws": 1.85,
-          "heatIndex": 23
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 68,
+          "pr": 1014,
+          "tp": 21,
+          "wd": 70,
+          "ws": 1.54,
+          "heatIndex": 21
         }
       }
     }
@@ -536,21 +536,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "aqius": 69,
           "mainus": "p2",
-          "aqicn": 28,
-          "maincn": "o3"
+          "aqicn": 27,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 75,
-          "pr": 1012,
-          "tp": 25,
-          "wd": 80,
-          "ws": 5.94,
-          "heatIndex": 25
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 94,
+          "pr": 1011,
+          "tp": 22,
+          "wd": 40,
+          "ws": 1.54,
+          "heatIndex": 22
         }
       }
     }
@@ -570,21 +570,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 96,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 75,
           "mainus": "p2",
-          "aqicn": 47,
+          "aqicn": 31,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 44,
+          "hu": 58,
           "pr": 1014,
-          "tp": 20,
-          "wd": 318,
-          "ws": 1.04,
-          "heatIndex": 20
+          "tp": 17,
+          "wd": 311,
+          "ws": 0.8,
+          "heatIndex": 17
         }
       }
     }
@@ -608,21 +608,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 96,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 90,
           "mainus": "p2",
-          "aqicn": 47,
+          "aqicn": 43,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 51,
+          "hu": 66,
           "pr": 1014,
-          "tp": 22,
-          "wd": 192,
-          "ws": 0.44,
-          "heatIndex": 22
+          "tp": 18,
+          "wd": 144,
+          "ws": 0.76,
+          "heatIndex": 18
         }
       }
     }
@@ -650,21 +650,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 97,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 75,
           "mainus": "p2",
-          "aqicn": 49,
-          "maincn": "p2"
+          "aqicn": 42,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 36,
-          "pr": 1013,
-          "tp": 22,
-          "wd": 104,
-          "ws": 2.41,
-          "heatIndex": 22
+          "hu": 69,
+          "pr": 1014,
+          "tp": 18,
+          "wd": 83,
+          "ws": 3.18,
+          "heatIndex": 18
         }
       }
     }
@@ -684,21 +684,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 77,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 53,
+          "aqicn": 44,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 57,
+          "hu": 86,
           "pr": 1015,
-          "tp": 21,
-          "wd": 68,
-          "ws": 6.27,
-          "heatIndex": 21
+          "tp": 16,
+          "wd": 38,
+          "ws": 2.23,
+          "heatIndex": 16
         }
       }
     }
@@ -718,21 +718,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 84,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 68,
           "mainus": "p2",
-          "aqicn": 38,
+          "aqicn": 26,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 53,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 58,
           "pr": 1012,
-          "tp": 25,
-          "wd": 54,
-          "ws": 0.57,
-          "heatIndex": 25
+          "tp": 22,
+          "wd": 87,
+          "ws": 1.89,
+          "heatIndex": 22
         }
       }
     }
@@ -752,21 +752,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 156,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 119,
           "mainus": "p2",
-          "aqicn": 85,
+          "aqicn": 60,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 70,
-          "pr": 1012,
-          "tp": 26,
-          "wd": 191,
-          "ws": 3.79,
-          "heatIndex": 26
+          "hu": 75,
+          "pr": 1011,
+          "tp": 24,
+          "wd": 152,
+          "ws": 1,
+          "heatIndex": 24
         }
       }
     }
@@ -786,21 +786,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
+          "ts": "2026-01-21T20:00:00.000Z",
           "aqius": 104,
           "mainus": "s2",
           "aqicn": 110,
           "maincn": "s2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 62,
-          "pr": 1016,
-          "tp": 23,
-          "wd": 83,
-          "ws": 4.73,
-          "heatIndex": 23
+          "hu": 88,
+          "pr": 1015,
+          "tp": 15,
+          "wd": 92,
+          "ws": 1.97,
+          "heatIndex": 15
         }
       }
     }
@@ -820,21 +820,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 88,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 103,
           "mainus": "p2",
-          "aqicn": 41,
+          "aqicn": 52,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "02n",
-          "hu": 40,
+          "hu": 58,
           "pr": 1013,
-          "tp": 21,
-          "wd": 68,
-          "ws": 3.45,
-          "heatIndex": 21
+          "tp": 20,
+          "wd": 98,
+          "ws": 2.41,
+          "heatIndex": 20
         }
       }
     }
@@ -854,21 +854,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 97,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 102,
           "mainus": "p2",
-          "aqicn": 48,
+          "aqicn": 51,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 36,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 49,
           "pr": 1012,
-          "tp": 26,
-          "wd": 116,
-          "ws": 3.13,
-          "heatIndex": 26
+          "tp": 22,
+          "wd": 286,
+          "ws": 1.11,
+          "heatIndex": 22
         }
       }
     }
@@ -888,21 +888,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 71,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 62,
           "mainus": "p2",
-          "aqicn": 29,
+          "aqicn": 21,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 83,
-          "pr": 1014,
-          "tp": 23,
-          "wd": 110,
-          "ws": 0.98,
-          "heatIndex": 23
+          "hu": 90,
+          "pr": 1012,
+          "tp": 21,
+          "wd": 188,
+          "ws": 0.49,
+          "heatIndex": 21
         }
       }
     }
@@ -922,58 +922,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 75,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 92,
           "mainus": "p2",
-          "aqicn": 31,
+          "aqicn": 44,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 54,
+          "hu": 73,
           "pr": 1015,
-          "tp": 19,
-          "wd": 123,
-          "ws": 1.49,
-          "heatIndex": 19
+          "tp": 16,
+          "wd": 131,
+          "ws": 1.01,
+          "heatIndex": 16
         }
       }
     }
   },
   "Narathiwat": {
-    "status": "success",
-    "data": {
-      "city": "Narathiwat",
-      "state": "Narathiwat",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.8150573,
-          6.424468
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2026-01-21T11:00:00.000Z",
-          "aqius": 57,
-          "mainus": "p2",
-          "aqicn": 18,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 78,
-          "pr": 1014,
-          "tp": 24,
-          "wd": 117,
-          "ws": 4.34,
-          "heatIndex": 24
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Narathiwat&state=Narathiwat&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Nong Bua Lamphu": {
     "status": "success",
@@ -990,21 +960,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 109,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 56,
           "mainus": "p2",
-          "aqicn": 55,
-          "maincn": "p2"
+          "aqicn": 40,
+          "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 43,
+          "hu": 68,
           "pr": 1014,
-          "tp": 24,
-          "wd": 91,
-          "ws": 1.93,
-          "heatIndex": 24
+          "tp": 18,
+          "wd": 97,
+          "ws": 0.72,
+          "heatIndex": 18
         }
       }
     }
@@ -1024,21 +994,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T12:00:00.000Z",
-          "aqius": 79,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 55,
           "mainus": "p2",
-          "aqicn": 42,
-          "maincn": "p1"
+          "aqicn": 16,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 42,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 103,
-          "ws": 2.18,
-          "heatIndex": 24
+          "hu": 74,
+          "pr": 1015,
+          "tp": 18,
+          "wd": 109,
+          "ws": 1.84,
+          "heatIndex": 18
         }
       }
     }
@@ -1062,58 +1032,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 134,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 137,
           "mainus": "p2",
-          "aqicn": 68,
+          "aqicn": 69,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 56,
-          "pr": 1012,
-          "tp": 28,
-          "wd": 199,
-          "ws": 3.77,
-          "heatIndex": 29
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 88,
+          "pr": 1011,
+          "tp": 24,
+          "wd": 110,
+          "ws": 2.06,
+          "heatIndex": 24
         }
       }
     }
   },
   "Pattani": {
-    "status": "success",
-    "data": {
-      "city": "Pattani",
-      "state": "Pattani",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.25009,
-          6.86814
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 68,
-          "mainus": "p2",
-          "aqicn": 26,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 79,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 102,
-          "ws": 5.11,
-          "heatIndex": 24
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Pattani&state=Pattani&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Phangnga": {
     "status": "error",
@@ -1134,21 +1074,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T12:00:00.000Z",
-          "aqius": 57,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 86,
           "mainus": "p2",
-          "aqicn": 23,
-          "maincn": "o3"
+          "aqicn": 40,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 80,
-          "pr": 1014,
-          "tp": 24,
-          "wd": 102,
-          "ws": 3.36,
-          "heatIndex": 24
+          "hu": 84,
+          "pr": 1011,
+          "tp": 22,
+          "wd": 119,
+          "ws": 2.7,
+          "heatIndex": 22
         }
       }
     }
@@ -1172,21 +1112,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 89,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 84,
           "mainus": "p2",
-          "aqicn": 45,
+          "aqicn": 47,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 45,
-          "pr": 1014,
-          "tp": 24,
-          "wd": 111,
-          "ws": 0.79,
-          "heatIndex": 24
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "01n",
+          "hu": 58,
+          "pr": 1013,
+          "tp": 21,
+          "wd": 41,
+          "ws": 1.52,
+          "heatIndex": 21
         }
       }
     }
@@ -1210,21 +1150,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 119,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 154,
           "mainus": "p2",
-          "aqicn": 63,
-          "maincn": "p1"
+          "aqicn": 81,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 36,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 50,
           "pr": 1012,
-          "tp": 26,
-          "wd": 106,
-          "ws": 2.26,
-          "heatIndex": 26
+          "tp": 22,
+          "wd": 132,
+          "ws": 0.73,
+          "heatIndex": 22
         }
       }
     }
@@ -1244,21 +1184,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 121,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 119,
           "mainus": "p2",
-          "aqicn": 68,
+          "aqicn": 63,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 33,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 51,
           "pr": 1012,
-          "tp": 27,
-          "wd": 105,
-          "ws": 0.91,
-          "heatIndex": 27
+          "tp": 22,
+          "wd": 351,
+          "ws": 0.85,
+          "heatIndex": 22
         }
       }
     }
@@ -1282,58 +1222,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 72,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 88,
           "mainus": "p2",
-          "aqicn": 29,
+          "aqicn": 41,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 45,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 74,
           "pr": 1013,
-          "tp": 22,
-          "wd": 133,
-          "ws": 1.54,
-          "heatIndex": 22
+          "tp": 21,
+          "wd": 84,
+          "ws": 0.44,
+          "heatIndex": 21
         }
       }
     }
   },
   "Phuket": {
-    "status": "success",
-    "data": {
-      "city": "Phuket",
-      "state": "Phuket",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          98.39375319999999,
-          7.8885865
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2026-01-21T11:00:00.000Z",
-          "aqius": 67,
-          "mainus": "p2",
-          "aqicn": 33,
-          "maincn": "p1"
-        },
-        "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 70,
-          "pr": 1012,
-          "tp": 27,
-          "wd": 89,
-          "ws": 8.23,
-          "heatIndex": 29
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Phuket&state=Phuket&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Prachin Buri": {
     "status": "error",
@@ -1354,21 +1264,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 69,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 27,
+          "aqicn": 29,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 86,
-          "pr": 1013,
-          "tp": 23,
-          "wd": 205,
-          "ws": 2.14,
-          "heatIndex": 23
+          "hu": 89,
+          "pr": 1012,
+          "tp": 22,
+          "wd": 250,
+          "ws": 1.53,
+          "heatIndex": 22
         }
       }
     }
@@ -1396,21 +1306,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 73,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 95,
           "mainus": "p2",
-          "aqicn": 45,
-          "maincn": "p1"
+          "aqicn": 47,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 70,
-          "pr": 1013,
-          "tp": 26,
-          "wd": 190,
-          "ws": 3.84,
-          "heatIndex": 26
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 71,
+          "pr": 1012,
+          "tp": 22,
+          "wd": 82,
+          "ws": 1.72,
+          "heatIndex": 22
         }
       }
     }
@@ -1430,21 +1340,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 80,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 66,
           "mainus": "p2",
-          "aqicn": 51,
+          "aqicn": 35,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 41,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 71,
           "pr": 1014,
-          "tp": 20,
-          "wd": 76,
-          "ws": 6.43,
-          "heatIndex": 20
+          "tp": 17,
+          "wd": 74,
+          "ws": 3.57,
+          "heatIndex": 17
         }
       }
     }
@@ -1468,21 +1378,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 59,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 67,
           "mainus": "p2",
-          "aqicn": 48,
+          "aqicn": 32,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 60,
+          "hu": 81,
           "pr": 1015,
-          "tp": 22,
-          "wd": 95,
-          "ws": 6.26,
-          "heatIndex": 22
+          "tp": 16,
+          "wd": 110,
+          "ws": 3.97,
+          "heatIndex": 16
         }
       }
     }
@@ -1502,21 +1412,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "aqius": 99,
           "mainus": "p2",
           "aqicn": 50,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 71,
-          "pr": 1012,
-          "tp": 26,
-          "wd": 204,
-          "ws": 5.04,
-          "heatIndex": 26
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 94,
+          "pr": 1011,
+          "tp": 25,
+          "wd": 100,
+          "ws": 2.57,
+          "heatIndex": 25
         }
       }
     }
@@ -1536,21 +1446,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 96,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 81,
           "mainus": "p2",
-          "aqicn": 47,
+          "aqicn": 36,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
           "hu": 76,
-          "pr": 1012,
-          "tp": 26,
-          "wd": 199,
-          "ws": 4.9,
-          "heatIndex": 26
+          "pr": 1011,
+          "tp": 25,
+          "wd": 125,
+          "ws": 1.56,
+          "heatIndex": 25
         }
       }
     }
@@ -1570,21 +1480,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 84,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 95,
           "mainus": "p2",
-          "aqicn": 47,
-          "maincn": "p1"
+          "aqicn": 46,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 71,
-          "pr": 1012,
-          "tp": 25,
-          "wd": 189,
-          "ws": 3.97,
-          "heatIndex": 25
+          "hu": 75,
+          "pr": 1011,
+          "tp": 21,
+          "wd": 195,
+          "ws": 0.92,
+          "heatIndex": 21
         }
       }
     }
@@ -1598,38 +1508,8 @@
     "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Satun&state=Satun&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sing Buri": {
-    "status": "success",
-    "data": {
-      "city": "Sing Buri",
-      "state": "Sing Buri",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          100.40464,
-          14.88786
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 136,
-          "mainus": "p2",
-          "aqicn": 69,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 35,
-          "pr": 1012,
-          "tp": 27,
-          "wd": 81,
-          "ws": 3.39,
-          "heatIndex": 27
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Sing%20Buri&state=Sing%20Buri&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Sisaket": {
     "status": "error",
@@ -1654,21 +1534,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 66,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 65,
           "mainus": "p2",
-          "aqicn": 41,
+          "aqicn": 36,
           "maincn": "p1"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 33,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 71,
           "pr": 1012,
-          "tp": 26,
-          "wd": 205,
-          "ws": 0.79,
-          "heatIndex": 26
+          "tp": 22,
+          "wd": 215,
+          "ws": 1.16,
+          "heatIndex": 22
         }
       }
     }
@@ -1692,21 +1572,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "aqius": 69,
           "mainus": "p2",
           "aqicn": 27,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "04n",
-          "hu": 81,
-          "pr": 1012,
-          "tp": 23,
-          "wd": 107,
-          "ws": 3.44,
-          "heatIndex": 23
+          "hu": 100,
+          "pr": 1011,
+          "tp": 24,
+          "wd": 341,
+          "ws": 1.34,
+          "heatIndex": 24
         }
       }
     }
@@ -1726,21 +1606,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 103,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 69,
           "mainus": "p2",
-          "aqicn": 52,
+          "aqicn": 27,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 41,
-          "pr": 1013,
-          "tp": 21,
-          "wd": 44,
-          "ws": 3.42,
-          "heatIndex": 21
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 67,
+          "pr": 1014,
+          "tp": 17,
+          "wd": 68,
+          "ws": 3.55,
+          "heatIndex": 17
         }
       }
     }
@@ -1760,58 +1640,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "aqius": 88,
           "mainus": "p2",
           "aqicn": 41,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "02n",
-          "hu": 42,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 100,
           "pr": 1013,
-          "tp": 24,
-          "wd": 245,
-          "ws": 1.32,
-          "heatIndex": 24
+          "tp": 22,
+          "wd": 287,
+          "ws": 1.38,
+          "heatIndex": 22
         }
       }
     }
   },
   "Trang": {
-    "status": "success",
-    "data": {
-      "city": "Trang",
-      "state": "Trang",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          99.61141,
-          7.55633
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2026-01-21T12:00:00.000Z",
-          "aqius": 53,
-          "mainus": "p2",
-          "aqicn": 14,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 83,
-          "pr": 1013,
-          "tp": 23,
-          "wd": 48,
-          "ws": 1.83,
-          "heatIndex": 23
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Trang&state=Trang&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Trat": {
     "status": "success",
@@ -1828,21 +1678,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 71,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 72,
           "mainus": "p2",
           "aqicn": 29,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 83,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 184,
-          "ws": 0.67,
-          "heatIndex": 24
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "03n",
+          "hu": 77,
+          "pr": 1012,
+          "tp": 20,
+          "wd": 30,
+          "ws": 1.33,
+          "heatIndex": 20
         }
       }
     }
@@ -1862,21 +1712,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 95,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 71,
           "mainus": "p2",
-          "aqicn": 46,
+          "aqicn": 29,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "01n",
-          "hu": 41,
-          "pr": 1013,
-          "tp": 24,
-          "wd": 60,
-          "ws": 2.11,
-          "heatIndex": 24
+          "hu": 69,
+          "pr": 1014,
+          "tp": 18,
+          "wd": 93,
+          "ws": 1.86,
+          "heatIndex": 18
         }
       }
     }
@@ -1896,21 +1746,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 154,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 160,
           "mainus": "p2",
-          "aqicn": 81,
+          "aqicn": 92,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "03n",
-          "hu": 36,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "02n",
+          "hu": 50,
           "pr": 1012,
-          "tp": 27,
-          "wd": 104,
-          "ws": 3.37,
-          "heatIndex": 27
+          "tp": 22,
+          "wd": 276,
+          "ws": 0.68,
+          "heatIndex": 22
         }
       }
     }
@@ -1930,58 +1780,28 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "aqius": 109,
+          "ts": "2026-01-21T21:00:00.000Z",
+          "aqius": 112,
           "mainus": "p2",
-          "aqicn": 55,
+          "aqicn": 56,
           "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "01n",
-          "hu": 39,
-          "pr": 1012,
-          "tp": 24,
-          "wd": 11,
-          "ws": 0.97,
-          "heatIndex": 24
+          "ts": "2026-01-21T21:00:00.000Z",
+          "ic": "04n",
+          "hu": 99,
+          "pr": 1013,
+          "tp": 18,
+          "wd": 19,
+          "ws": 1.47,
+          "heatIndex": 18
         }
       }
     }
   },
   "Yala": {
-    "status": "success",
-    "data": {
-      "city": "Yala",
-      "state": "Yala",
-      "country": "Thailand",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          101.2807224,
-          6.5414409
-        ]
-      },
-      "current": {
-        "pollution": {
-          "ts": "2026-01-21T11:00:00.000Z",
-          "aqius": 58,
-          "mainus": "p2",
-          "aqicn": 18,
-          "maincn": "p2"
-        },
-        "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
-          "ic": "04n",
-          "hu": 85,
-          "pr": 1013,
-          "tp": 23,
-          "wd": 99,
-          "ws": 1.71,
-          "heatIndex": 23
-        }
-      }
-    }
+    "status": "error",
+    "message": "400 Client Error: Bad Request for url: http://api.airvisual.com/v2/city?city=Yala&state=Yala&country=Thailand&key=c926d92f-7623-4d75-81dd-7c5542c59e5e"
   },
   "Yasothon": {
     "status": "success",
@@ -1998,21 +1818,21 @@
       },
       "current": {
         "pollution": {
-          "ts": "2026-01-21T13:00:00.000Z",
-          "aqius": 55,
+          "ts": "2026-01-21T20:00:00.000Z",
+          "aqius": 67,
           "mainus": "p2",
-          "aqicn": 24,
-          "maincn": "o3"
+          "aqicn": 25,
+          "maincn": "p2"
         },
         "weather": {
-          "ts": "2026-01-21T14:00:00.000Z",
+          "ts": "2026-01-21T21:00:00.000Z",
           "ic": "03n",
-          "hu": 46,
+          "hu": 73,
           "pr": 1014,
-          "tp": 21,
-          "wd": 57,
-          "ws": 6.66,
-          "heatIndex": 21
+          "tp": 17,
+          "wd": 68,
+          "ws": 6.16,
+          "heatIndex": 17
         }
       }
     }
